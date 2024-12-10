@@ -1,0 +1,7746 @@
+[
+    {
+        "location": "Brīvības  310, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Biķernieku  143, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Biķernieku  143, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Augusta Dombrovska  74, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rīga",
+        "wage": 4100
+    },
+    {
+        "location": "Dzelzavas  6A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Parādes  8, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Gustava Zemgala  74, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Latgales  257, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Latgales  257, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Rusova  1, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rusova  1, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Dzelzavas  6A, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Dzelzavas  6A, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Dzelzavas  6A, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Mūkusalas  71, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Mūkusalas  71, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Rusova  1, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Latgales  240 - 3, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Firsa Sadovņikova  19, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Pulkveža Brieža  7, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Biķernieku  143, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Melnsila  22, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Melnsila  22, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Burtnieku  39, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Dzirciema  51, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Kārļa Ulmaņa  88B, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Pūpolu  1, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Pūpolu  1, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Ilūkstes  24A, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Pūpolu  1, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Rīgas  21, Ādaži, Ādažu nov.",
+        "wage": 640
+    },
+    {
+        "location": "Rīgas  21, Ādaži, Ādažu nov.",
+        "wage": 640
+    },
+    {
+        "location": "Pētersalas  18B, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Merķeļa  1, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Pētersalas  18B, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rīgas  21, Ādaži, Ādažu nov.",
+        "wage": 800
+    },
+    {
+        "location": "Rīgas  21, Ādaži, Ādažu nov.",
+        "wage": 640
+    },
+    {
+        "location": "Merķeļa  1, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Augusta Deglava  67, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Augusta Deglava  67, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Kvēles  11, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Duntes  10, Rīga",
+        "wage": 1650
+    },
+    {
+        "location": "Slokas  115, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Stendes  1 k-4 - 37, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Valdeķu  10, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Latgales  267, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Slokas  115, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 864
+    },
+    {
+        "location": "Slokas  115, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Krustabaznīcas  9, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Andreja Saharova  20A, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Vienības  45, Rīga",
+        "wage": 2250
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 1375
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 1375
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 910
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 3000
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 750
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 721
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 3000
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 2200
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 3300
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 3300
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 3300
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 3300
+    },
+    {
+        "location": "Centrāltirgus  3k-6, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 1275
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 3500
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 735
+    },
+    {
+        "location": "Meža  3, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Kalna  68A, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 1385
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 945
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 893
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 10500
+    },
+    {
+        "location": "Latgales  240 - 3, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Kalna  68A, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Katrīnas  2, Rīga",
+        "wage": 1526
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 2670
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 714
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 1001
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 906
+    },
+    {
+        "location": "Vangažu  23, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Bruņinieku  5 k-2, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Pērses  2, Rīga",
+        "wage": 3477
+    },
+    {
+        "location": "Čiekurkalna 1. līnija 84, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Dzirciema  16, Rīga",
+        "wage": 2100
+    },
+    {
+        "location": "Dārza  5, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Centrāltirgus  3 k-6, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Latgales  240 - 3, Rīga",
+        "wage": 1125
+    },
+    {
+        "location": "Flotes  7, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Nēģu  7, Rīga",
+        "wage": 1830
+    },
+    {
+        "location": "Aiviekstes  6, Rīga",
+        "wage": 1085
+    },
+    {
+        "location": "Ernestīnes  34, Rīga",
+        "wage": 1324
+    },
+    {
+        "location": "Ernestīnes  34, Rīga",
+        "wage": 1488
+    },
+    {
+        "location": "Skanstes  52, Rīga",
+        "wage": 5800
+    },
+    {
+        "location": "Džutas  9, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Talejas  1, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Andreja Saharova  23A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Ernestīnes  34, Rīga",
+        "wage": 1177
+    },
+    {
+        "location": "Eksporta  5, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Eksporta  5, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rūdolfa  5, Rīga",
+        "wage": 2170
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 1760
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 2720
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 2720
+    },
+    {
+        "location": "Talejas  1, Rīga",
+        "wage": 1457
+    },
+    {
+        "location": "Brīvības  155 k-6, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Latgales  165, Rīga",
+        "wage": 1150
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 1566
+    },
+    {
+        "location": "Latgales  165, Rīga",
+        "wage": 1900
+    },
+    {
+        "location": "Lielvārdes  36, Rīga",
+        "wage": 1260
+    },
+    {
+        "location": "Muzeju  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 4000
+    },
+    {
+        "location": "Blaumaņa  27 - 1, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Klijānu  7, Rīga",
+        "wage": 1810
+    },
+    {
+        "location": "Andreja Saharova  23A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 3300
+    },
+    {
+        "location": "Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Rīga",
+        "wage": 1815
+    },
+    {
+        "location": "Ganību dambis 7A, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Lāčplēša  1, Rīga",
+        "wage": 945
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Mangaļu prospekts 62 - 1, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Priedaines  11, Rīga",
+        "wage": 1200
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rēznas  9 k-13, Rīga",
+        "wage": 980
+    },
+    {
+        "location": "Baznīcas  19/23, Rīga",
+        "wage": 1558
+    },
+    {
+        "location": "Rīgas Būvniecības koledža, Gaiziņa  3, Rīga, LV-1050",
+        "wage": 2160
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 2900
+    },
+    {
+        "location": "Pils laukums 3, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rīga, Krustpils  15, LV-1073",
+        "wage": 1400
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 2900
+    },
+    {
+        "location": "Rīga",
+        "wage": 1423
+    },
+    {
+        "location": "Ezermalas  8B, Rīga",
+        "wage": 1752
+    },
+    {
+        "location": "Rīga",
+        "wage": 1423
+    },
+    {
+        "location": "Rīga",
+        "wage": 1139
+    },
+    {
+        "location": "Klijānu  7, Rīga",
+        "wage": 1297
+    },
+    {
+        "location": "Lāčplēša  14, Rīga; Daugavgrīvas  8, Rīga un citi objekti Latvijas teritorijā.",
+        "wage": 930
+    },
+    {
+        "location": "Lāčplēša  14, Rīga; Daugavgrīvas  8, Rīga un citi objekti Latvijā",
+        "wage": 930
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2200
+    },
+    {
+        "location": "Stacijas laukums 2, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Skolas  28, Rīga",
+        "wage": 2002
+    },
+    {
+        "location": "Skolas  5, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Bruņinieku  33, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Skolas  28, Rīga",
+        "wage": 1522
+    },
+    {
+        "location": "Vidzemes aleja 3 - 63, Rīga, LV-1024",
+        "wage": 1537
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 1850
+    },
+    {
+        "location": "Republikas laukums 2, Rīga",
+        "wage": 2856
+    },
+    {
+        "location": "Brīvības  96, Rīga, LV-1001",
+        "wage": 993
+    },
+    {
+        "location": "Dižozolu  21A, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Vaļņu  1, Rīga",
+        "wage": 1899
+    },
+    {
+        "location": "Smilšu  20, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Gaiļezera ielā 8 (Mežciems), Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Hipokrāta  4, Rīga",
+        "wage": 2024
+    },
+    {
+        "location": "Krišjāņa Valdemāra  10/12, Rīga",
+        "wage": 1809
+    },
+    {
+        "location": "Saulgožu  17 - 24, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 950
+    },
+    {
+        "location": "Hipokrāta  4, Rīga",
+        "wage": 942
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Pildas  15, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Visvalža  7 - 26, Rīga,; Republikas laukums 3-317, Rīga;",
+        "wage": 1573
+    },
+    {
+        "location": "Smilšu  7, Rīga",
+        "wage": 985
+    },
+    {
+        "location": "Mūkusalas 72F, Rīga, LV-1004",
+        "wage": 1400
+    },
+    {
+        "location": "Alberta  10, Rīga",
+        "wage": 1516
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Jaunā Teika, Rīga",
+        "wage": 2800
+    },
+    {
+        "location": "Kārļa Mīlenbaha  14, Rīga",
+        "wage": 1226
+    },
+    {
+        "location": "Krustpils  15, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Krišjāņa Valdemāra  139, Rīga",
+        "wage": 1960
+    },
+    {
+        "location": "Birztalu  66, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Vesetas  15 - 38, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Talejas  1, Rīga",
+        "wage": 2100
+    },
+    {
+        "location": "Čiekurkalna 1. līnija 76, Rīga, , Kr.Valdemāra  149",
+        "wage": 980
+    },
+    {
+        "location": "Hospitāļu  8 - 7, Rīga",
+        "wage": 1247
+    },
+    {
+        "location": "Mēness  17 - 13, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Hospitāļu  8 - 7, Rīga",
+        "wage": 1247
+    },
+    {
+        "location": "Klijānu  18, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Voleru  2, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Vagonu  35, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Mūkusalas  71, Rīga",
+        "wage": 1175
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 2700
+    },
+    {
+        "location": "Katlakalna  11E, Rīga",
+        "wage": 3500
+    },
+    {
+        "location": "Katrīnas dambis 20, Rīga",
+        "wage": 1550
+    },
+    {
+        "location": "Krišjāņa Valdemāra  5, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Katrīnas  12, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Kārļa Ulmaņa  180, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rīgas  51, Ādaži, Ādažu nov.",
+        "wage": 700
+    },
+    {
+        "location": "Tvaika  2, Rīga",
+        "wage": 972
+    },
+    {
+        "location": "Daugavpils  31, Rīga",
+        "wage": 1130
+    },
+    {
+        "location": "Rūdolfa  5, Rīga",
+        "wage": 2190
+    },
+    {
+        "location": "Daugavpils  31, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Pilsoņu  1 k-1, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Pilsoņu  1 k-1, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Pilsoņu  1 k-1, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Aglonas  35 k-1, Rīga",
+        "wage": 1315
+    },
+    {
+        "location": "Bruņinieku  10A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Vidrižu  1A, Rīga",
+        "wage": 1470
+    },
+    {
+        "location": "Aglonas  35 k-1, Rīga",
+        "wage": 1315
+    },
+    {
+        "location": "Miera  45, Rīga",
+        "wage": 1550
+    },
+    {
+        "location": "Ezermalas  6C, Rīga",
+        "wage": 3292
+    },
+    {
+        "location": "Ezermalas  6C, Rīga",
+        "wage": 1422
+    },
+    {
+        "location": "Ganību dambis, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Šampētera  2, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Hanzas  7, Rīga",
+        "wage": 1605
+    },
+    {
+        "location": "Elizabetes  17 - 8, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Elizabetes  17 - 8, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Elizabetes  17 - 8, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Cimzes  3, Rīga, LV-1014 ( Mežaparks)",
+        "wage": 700
+    },
+    {
+        "location": "Elizabetes  17 - 8, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Uriekstes  16, Rīga",
+        "wage": 1190
+    },
+    {
+        "location": "Elizabetes  17 - 8, Rīga",
+        "wage": 2500
+    },
+    {
+        "location": "Peldu  25, Rīga",
+        "wage": 2250
+    },
+    {
+        "location": "Purvciema  23A, Rīga",
+        "wage": 1374
+    },
+    {
+        "location": "Krišjāņa Valdemāra  5, Rīga",
+        "wage": 1760
+    },
+    {
+        "location": "Krišjāņa Valdemāra  38, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Brīvības  155 k-3, Rīga",
+        "wage": 740
+    },
+    {
+        "location": "Brīvības  155 k-3, Rīga",
+        "wage": 740
+    },
+    {
+        "location": "Krišjāņa Valdemāra  38, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Cēsu  3A, Rīga",
+        "wage": 1590
+    },
+    {
+        "location": "Krišjāņa Valdemāra  157, Rīga",
+        "wage": 1851
+    },
+    {
+        "location": "Flotes  13, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Kārļa Ulmaņa  3, Rīga",
+        "wage": 2400
+    },
+    {
+        "location": "Rīga,Bruņinieku",
+        "wage": 1000
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 2720
+    },
+    {
+        "location": "Mastu  4, Rīga",
+        "wage": 1200
+    },
+    {
+        "location": "Rīga",
+        "wage": 2240
+    },
+    {
+        "location": "Mālu  19, Rīga",
+        "wage": 770
+    },
+    {
+        "location": "Juglas  25, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Ķīšezera  6, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Gaiļezera  8, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Rūdolfa  5, Rīga",
+        "wage": 2190
+    },
+    {
+        "location": "Rūdolfa  5, Rīga",
+        "wage": 1395
+    },
+    {
+        "location": "Juglas  20, Rīga",
+        "wage": 850
+    },
+    {
+        "location": "Brīvības  171, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Pērses  2, Rīga",
+        "wage": 1633
+    },
+    {
+        "location": "Patversmes  17, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Alberta  10, Rīga",
+        "wage": 1859
+    },
+    {
+        "location": "Alberta  10, Rīga",
+        "wage": 1859
+    },
+    {
+        "location": "Imanta, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Jaņa Rozentāla laukums 1, Rīga",
+        "wage": 751
+    },
+    {
+        "location": "Satiksmes  3, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Tvaika  2, Rīga",
+        "wage": 1150
+    },
+    {
+        "location": "Rīga",
+        "wage": 950
+    },
+    {
+        "location": "Vaļņu  2, Rīga",
+        "wage": 3405
+    },
+    {
+        "location": "Mūkusalas  71, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Lielirbes  29, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Ķengaraga  6A, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Cēsu  3A, Rīga",
+        "wage": 2100
+    },
+    {
+        "location": "Latgales  257, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Latgales  257, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Cēsu  31 k-3, Rīga",
+        "wage": 2304
+    },
+    {
+        "location": "Rītausmas  16, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Rītausmas  16, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Rītausmas  16, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Jūrkalnes  15, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīga, Latgales  322, Lv-1063",
+        "wage": 1120
+    },
+    {
+        "location": "Ganību dambis 17A, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Vienības  49A, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Tvaika  2, Rīga",
+        "wage": 2170
+    },
+    {
+        "location": "Rencēnu  8, Rīga",
+        "wage": 2500
+    },
+    {
+        "location": "Brīvības  367 - 34, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Balasta dambis 15, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Brīvības  367 - 34, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Brīvības  62 - 9, Rīga, LV-1011 un citos objektos Latvijā",
+        "wage": 930
+    },
+    {
+        "location": "Emīlijas Benjamiņas  3, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Kungu  7/9, Rīga",
+        "wage": 1399
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 2970
+    },
+    {
+        "location": "Skolas  28, Rīga",
+        "wage": 1899
+    },
+    {
+        "location": "Birzes  54, Rīga",
+        "wage": 1155
+    },
+    {
+        "location": "Birzes  54, Rīga",
+        "wage": 820
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Rīga, Hipokrāta  2, LV-1079",
+        "wage": 1537
+    },
+    {
+        "location": "Akadēmijas laukums 1, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 2400
+    },
+    {
+        "location": "Granīta  9A, Rīga",
+        "wage": 980
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Brīvības  155 k-3, Rīga",
+        "wage": 740
+    },
+    {
+        "location": "Kalnciema  118, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Riepnieku  2, Rīga,LV-1050",
+        "wage": 1595
+    },
+    {
+        "location": "Ganību dambis 26, Rīga.",
+        "wage": 930
+    },
+    {
+        "location": "Vestienas  35, Rīga",
+        "wage": 1860
+    },
+    {
+        "location": "Krišjāņa Barona  117, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Krišjāņa Valdemāra  10/12, Rīga",
+        "wage": 1719
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 2500
+    },
+    {
+        "location": "Krišjāņa Valdemāra  10/12, Rīga",
+        "wage": 1809
+    },
+    {
+        "location": "Ganību dambis 24D, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Krišjāņa Valdemāra  10/12, Rīga",
+        "wage": 3290
+    },
+    {
+        "location": "Uriekstes  3, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Krišjāņa Valdemāra  10/12, Rīga",
+        "wage": 2377
+    },
+    {
+        "location": "Katlakalna  4B, Rīga",
+        "wage": 2800
+    },
+    {
+        "location": "Krišjāņa Valdemāra  10/12, Rīga",
+        "wage": 1700
+    },
+    {
+        "location": "Krasta  54, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Jelgavas  90, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Jelgavas  90, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Katlakalna  4B, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Ventspils  58, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Viskaļu  16, Rīga, LV-1026",
+        "wage": 800
+    },
+    {
+        "location": "Viskaļu  16, Rīga, LV-1026",
+        "wage": 800
+    },
+    {
+        "location": "Brīvības  191, Rīga",
+        "wage": 1710
+    },
+    {
+        "location": "Krasta  42, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Skaistkalnes  1A, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Uriekstes  16, Rīga",
+        "wage": 1193
+    },
+    {
+        "location": "Brīvības bulvāris 36, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Jasmuižas  18 k-1 - 79, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Meldru  5A, Rīga",
+        "wage": 2120
+    },
+    {
+        "location": "Krustabaznīcas  9, Rīga",
+        "wage": 1753
+    },
+    {
+        "location": "Šmerļa  1, Rīga",
+        "wage": 2340
+    },
+    {
+        "location": "Šmerļa  1, Rīga",
+        "wage": 2700
+    },
+    {
+        "location": "Šmerļa  1, Rīga",
+        "wage": 2250
+    },
+    {
+        "location": "Rīga, objekti Latvijā",
+        "wage": 1500
+    },
+    {
+        "location": "Lizuma  5E, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Aiviekstes  6, Rīga",
+        "wage": 1031
+    },
+    {
+        "location": "Lizuma  5E, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīga",
+        "wage": 2300
+    },
+    {
+        "location": "Biķernieku  143, Rīga",
+        "wage": 1175
+    },
+    {
+        "location": "Ieriķu  3, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Matrožu  15, Rīga",
+        "wage": 2500
+    },
+    {
+        "location": "Kalpaka bulvāris 6, Rīga",
+        "wage": 1050
+    },
+    {
+        "location": "\"Lidosta \"Rīga\" 10/1\", Lidosta \"Rīga\", Mārupes pag., Mārupes nov., LV-1053",
+        "wage": 960
+    },
+    {
+        "location": "\"Lidosta \"Rīga\" 10/1\", Lidosta \"Rīga\", Mārupes pag., Mārupes nov., LV-1053",
+        "wage": 960
+    },
+    {
+        "location": "Bruņinieku  72B, Rīga",
+        "wage": 1950
+    },
+    {
+        "location": "Imantas  3B - 23, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Kapseļu  23, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Dzirciema  16, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Dzirciema  16, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Latgales  322, Rīga",
+        "wage": 1480
+    },
+    {
+        "location": "Peldu  25, Rīga",
+        "wage": 1851
+    },
+    {
+        "location": "Čiekurkalna 1. līnija 1 k-4, Rīga",
+        "wage": 1395
+    },
+    {
+        "location": "Juglas krastmala 2, Rīga",
+        "wage": 1405
+    },
+    {
+        "location": "Augusta Dombrovska  24, Rīga",
+        "wage": 1365
+    },
+    {
+        "location": "Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Rīga",
+        "wage": 2096
+    },
+    {
+        "location": "Kronvalda bulvāris 9, Rīga",
+        "wage": 950
+    },
+    {
+        "location": "Dzirciema  16, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Lāčplēša  1, Rīga",
+        "wage": 1284
+    },
+    {
+        "location": "Antonijas  6, Rīga",
+        "wage": 1375
+    },
+    {
+        "location": "Talejas  1, Rīga",
+        "wage": 1281
+    },
+    {
+        "location": "Meža prospekts 28, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Braila  2, Rīga",
+        "wage": 715
+    },
+    {
+        "location": "Brīvības  72 k-1, Rīga",
+        "wage": 2300
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 1850
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2200
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 2014
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 2014
+    },
+    {
+        "location": "Malienas  3A, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Sapieru  5, Rīga",
+        "wage": 708
+    },
+    {
+        "location": "Berģu  142, Rīga",
+        "wage": 715
+    },
+    {
+        "location": "Kungu  8, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Gaujas  17, Rīga",
+        "wage": 1180
+    },
+    {
+        "location": "Vizlas  1, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Pērses  2, Rīga",
+        "wage": 1633
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 2014
+    },
+    {
+        "location": "Lāčplēša  87F, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Miera  45, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Skārņu  8, Rīga, Cesvaines  15A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Tekstilnieku  23, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 1495
+    },
+    {
+        "location": "Ezermalas  10, Rīga",
+        "wage": 1330
+    },
+    {
+        "location": "Vienības  45, Rīga",
+        "wage": 1180
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Kalna  76, Rīga",
+        "wage": 1580
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 4950
+    },
+    {
+        "location": "Kandavas  42A, Rīga",
+        "wage": 1580
+    },
+    {
+        "location": "Hipokrāta  31, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Stendes  4, Rīga",
+        "wage": 825
+    },
+    {
+        "location": "Hipokrāta  31, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Mazā Rencēnu  4, Rīga",
+        "wage": 1200
+    },
+    {
+        "location": "Hipokrāta  31, Rīga",
+        "wage": 1297
+    },
+    {
+        "location": "Ulbrokas  19, Rīga",
+        "wage": 3000
+    },
+    {
+        "location": "Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Ulbrokas  19A, Rīga",
+        "wage": 4500
+    },
+    {
+        "location": "Kronvalda bulvāris 4, Rīga",
+        "wage": 1133
+    },
+    {
+        "location": "Induļa  4, Rīga",
+        "wage": 1047
+    },
+    {
+        "location": "Latgales  165, Rīga",
+        "wage": 2400
+    },
+    {
+        "location": "Republikas laukums 2, Rīga",
+        "wage": 1495
+    },
+    {
+        "location": "Talejas  1, Rīga",
+        "wage": 2390
+    },
+    {
+        "location": "Rīga, Piedrujas  18, LV-1073",
+        "wage": 930
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1900
+    },
+    {
+        "location": "Brīvības  462, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Jūrmalas  89, Rīga",
+        "wage": 1190
+    },
+    {
+        "location": "Kārļa Ulmaņa  135, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Dārzciema  69, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Rītausmas  23, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Brīvības  72 k-1, Rīga",
+        "wage": 1516
+    },
+    {
+        "location": "Buļļu  72A, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Miera  44, Rīga",
+        "wage": 750
+    },
+    {
+        "location": "Krūzes  53, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rīgas  65, Ādaži, Ādažu nov.",
+        "wage": 960
+    },
+    {
+        "location": "Augusta Deglava  82, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Rīga",
+        "wage": 3840
+    },
+    {
+        "location": "Ģertrūdes  36, Rīga, LV-1011",
+        "wage": 1616
+    },
+    {
+        "location": "Kronvalda bulvāris 4, Rīga",
+        "wage": 977
+    },
+    {
+        "location": "Vesetas  9, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Kaķasēkļa dambis 31, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Juglas  20, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 2073
+    },
+    {
+        "location": "Tērbatas  14, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Emīlijas Benjamiņas  3, Rīga",
+        "wage": 2880
+    },
+    {
+        "location": "Duntes  22 k-5, Rīga",
+        "wage": 1572
+    },
+    {
+        "location": "Krišjāņa Valdemāra  10/12, Rīga",
+        "wage": 2042
+    },
+    {
+        "location": "Krišjāņa Valdemāra  10/12, Rīga",
+        "wage": 1677
+    },
+    {
+        "location": "Cēsu  31 k-3, Rīga",
+        "wage": 1483
+    },
+    {
+        "location": "Krišjāņa Valdemāra  10/12, Rīga",
+        "wage": 1677
+    },
+    {
+        "location": "Brīvības  49/53, Rīga",
+        "wage": 1650
+    },
+    {
+        "location": "Cēsu  31 k-3, Rīga",
+        "wage": 1483
+    },
+    {
+        "location": "Talejas  1, Rīga",
+        "wage": 1285
+    },
+    {
+        "location": "Pils laukums 4, Rīga",
+        "wage": 2312
+    },
+    {
+        "location": "Jelgavas  90, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Vaļņu  2, Rīga",
+        "wage": 1884
+    },
+    {
+        "location": "Stigu  8, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Palasta  4, Rīga",
+        "wage": 900
+    },
+    {
+        "location": "Brīvības bulvāris 36, Rīga",
+        "wage": 4062
+    },
+    {
+        "location": "Brīvības  72 k-1, Rīga",
+        "wage": 1985
+    },
+    {
+        "location": "Krišjāņa Valdemāra  10/12, Rīga",
+        "wage": 1677
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 1240
+    },
+    {
+        "location": "Kalpaka bulvāris 4, Rīga",
+        "wage": 1210
+    },
+    {
+        "location": "Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Krišjāņa Barona  97B, Rīga",
+        "wage": 801
+    },
+    {
+        "location": "Malnavas  4, Rīga",
+        "wage": 825
+    },
+    {
+        "location": "Krišjāņa Barona  97B, Rīga",
+        "wage": 916
+    },
+    {
+        "location": "Kapseļu  31, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Brīvības  332, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Biķernieku  75A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Baznīcas  19/23, Rīga",
+        "wage": 1485
+    },
+    {
+        "location": "Gustava Zemgala  73, Rīga",
+        "wage": 2100
+    },
+    {
+        "location": "Voleru  4, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1600
+    },
+    {
+        "location": "Jelgavas  61A, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Jelgavas  61A, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Čiekurkalna 1. līnija 1 k-2, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Jelgavas  61A, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Kalna  68A, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Vaļņu  2, Rīga",
+        "wage": 2118
+    },
+    {
+        "location": "Čiekurkalna 1. līnija 1 k-2, Rīga",
+        "wage": 2800
+    },
+    {
+        "location": "Brāļu Kaudzīšu  25 - 42, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 1550
+    },
+    {
+        "location": "Pakalniešu  7, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Rīga",
+        "wage": 3500
+    },
+    {
+        "location": "Raiņa bulvāris 15, Rīga",
+        "wage": 1674
+    },
+    {
+        "location": "Pērses  2, Rīga",
+        "wage": 2934
+    },
+    {
+        "location": "Raiņa bulvāris 15, Rīga",
+        "wage": 1514
+    },
+    {
+        "location": "Krustpils  35, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Krustpils  35, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Krustpils  35, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Dzelzavas  120G, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Ģertrūdes  66, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 830
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Lāčplēša  87F, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Rīgas  51, Ādaži, Ādažu nov.",
+        "wage": 800
+    },
+    {
+        "location": "Valmieras  2A, Rīga,; Krustpils  20, Rīga; Vilkaines  2A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Nometņu  64, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Ezermalas  10B, Rīga",
+        "wage": 3273
+    },
+    {
+        "location": "Baznīcas  19/23, Rīga",
+        "wage": 1730
+    },
+    {
+        "location": "Hipokrāta  4, Rīga",
+        "wage": 1402
+    },
+    {
+        "location": "Zaķusalas krastmala 33, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Biķernieku  68, Rīga",
+        "wage": 950
+    },
+    {
+        "location": "Salnas  2, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Daugavpils  31, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Eduarda Smiļģa  46, Rīga",
+        "wage": 1315
+    },
+    {
+        "location": "Baldones  2, Rīga",
+        "wage": 1470
+    },
+    {
+        "location": "Granīta  9A, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Baldones  2, Rīga",
+        "wage": 1365
+    },
+    {
+        "location": "Lielvārdes  68, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Avotu  31 k-2, Rīga",
+        "wage": 1365
+    },
+    {
+        "location": "Avotu  31 k-2, Rīga",
+        "wage": 1470
+    },
+    {
+        "location": "Aglonas  35 k-1, Rīga",
+        "wage": 1315
+    },
+    {
+        "location": "Daugavpils  31, Rīga",
+        "wage": 1315
+    },
+    {
+        "location": "Daugavpils  31, Rīga",
+        "wage": 1315
+    },
+    {
+        "location": "Imantas 8. līnija 1 k-2, Rīga",
+        "wage": 1470
+    },
+    {
+        "location": "Emīlijas Benjamiņas  3, Rīga",
+        "wage": 2200
+    },
+    {
+        "location": "Imantas 8. līnija 1 k-2, Rīga",
+        "wage": 1365
+    },
+    {
+        "location": "Avotu  4, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Kārļa Mīlenbaha  11, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Sporta  11, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Šmerļa  5, Rīga",
+        "wage": 1408
+    },
+    {
+        "location": "Balasta dambis 15, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Mihaila Tāla  1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Lāčplēša  1, Rīga",
+        "wage": 1224
+    },
+    {
+        "location": "Lāčplēša  1, Rīga",
+        "wage": 2117
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Brīvības  49/53, Rīga",
+        "wage": 1220
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Rūdolfa  5, Rīga",
+        "wage": 1365
+    },
+    {
+        "location": "Rūdolfa  5, Rīga",
+        "wage": 1180
+    },
+    {
+        "location": "Margrietas  4, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Rīga",
+        "wage": 3000
+    },
+    {
+        "location": "Buļļu  74, Rīga",
+        "wage": 976
+    },
+    {
+        "location": "Lāčplēša  87F, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Ģertrūdes  66, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Ģertrūdes  66, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Emīlijas Benjamiņas  3, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Alberta  12, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Akadēmijas laukums 1 - 1, Rīga",
+        "wage": 1900
+    },
+    {
+        "location": "Lāčplēša  1, Rīga",
+        "wage": 1284
+    },
+    {
+        "location": "Lāčplēša  1, Rīga",
+        "wage": 1284
+    },
+    {
+        "location": "Lāčplēša  1, Rīga",
+        "wage": 900
+    },
+    {
+        "location": "Cēsu  3A, Rīga",
+        "wage": 3200
+    },
+    {
+        "location": "Zebiekstes  12, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Valērijas Seiles  12A, Rīga",
+        "wage": 1282
+    },
+    {
+        "location": "Brīvības  55, Rīga",
+        "wage": 1664
+    },
+    {
+        "location": "Mastu  4, Rīga",
+        "wage": 2200
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Ernestīnes  34, Rīga",
+        "wage": 1324
+    },
+    {
+        "location": "Mūkusalas  71, Rīga, un Latgales  257, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Kleistu  29, Rīga,LV-1067",
+        "wage": 1958
+    },
+    {
+        "location": "Ģertrūdes  36, Rīga",
+        "wage": 1750
+    },
+    {
+        "location": "Ģertrūdes  36, Rīga, LV-1011",
+        "wage": 2000
+    },
+    {
+        "location": "Daugavgrīvas  81 k-2, Rīga, LV-1007",
+        "wage": 1460
+    },
+    {
+        "location": "Jelgavas  3, Rīga",
+        "wage": 2600
+    },
+    {
+        "location": "Jūrkalnes  15/25, Rīga, LV-1046",
+        "wage": 1480
+    },
+    {
+        "location": "Brīvības  55, Rīga",
+        "wage": 1851
+    },
+    {
+        "location": "Jūrkalnes  15/25, Rīga, LV-1046",
+        "wage": 1480
+    },
+    {
+        "location": "Pērses  2, Rīga",
+        "wage": 3377
+    },
+    {
+        "location": "Pērses  2, Rīga",
+        "wage": 4187
+    },
+    {
+        "location": "Tvaika  2, Rīga",
+        "wage": 1784
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2045
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2045
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2045
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Krišjāņa Valdemāra  106, Rīga",
+        "wage": 1200
+    },
+    {
+        "location": "Tvaika  2, Rīga",
+        "wage": 1299
+    },
+    {
+        "location": "Vienības  109, Rīga",
+        "wage": 3500
+    },
+    {
+        "location": "Vienības  109, Rīga",
+        "wage": 4000
+    },
+    {
+        "location": "Ziemeļu  10, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 2500
+    },
+    {
+        "location": "Uriekstes  3 k-1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Uriekstes  3, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Uriekstes  3 k-1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Krišjāņa Barona  78 - 27, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Grēcinieku  1, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Sēlpils  15, Rīga",
+        "wage": 2080
+    },
+    {
+        "location": "Tīnūžu  1A - 25, Rīga",
+        "wage": 1480
+    },
+    {
+        "location": "Elijas  17, Rīga",
+        "wage": 1247
+    },
+    {
+        "location": "Noliktavas  5, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Lāčplēša  20A, Rīga",
+        "wage": 1310
+    },
+    {
+        "location": "Lāčplēša  20A, Rīga",
+        "wage": 1510
+    },
+    {
+        "location": "Dzirkaļu  21, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Mūkusalas  71, Rīga",
+        "wage": 1020
+    },
+    {
+        "location": "Emīlijas Benjamiņas  3, Rīga",
+        "wage": 2500
+    },
+    {
+        "location": "Riharda Vāgnera  13, Rīga",
+        "wage": 755
+    },
+    {
+        "location": "Rīga, Skanstes  50, LV-1013",
+        "wage": 2640
+    },
+    {
+        "location": "Ezermalas  10, Rīga",
+        "wage": 767
+    },
+    {
+        "location": "Vienības  113, Rīga",
+        "wage": 1020
+    },
+    {
+        "location": "Brīvības  455, Rīga",
+        "wage": 866
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1600
+    },
+    {
+        "location": "Brīvības  155 k-3, Rīga",
+        "wage": 740
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 2240
+    },
+    {
+        "location": "Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Raiņa bulvāris 4, Rīga,LV-1050",
+        "wage": 4328
+    },
+    {
+        "location": "Rīga",
+        "wage": 1140
+    },
+    {
+        "location": "Dižozolu  21A, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 2720
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 2720
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 2300
+    },
+    {
+        "location": "Tēraudlietuves  9, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Rūpniecības  16 k-2, Rīga, LV-1010",
+        "wage": 1250
+    },
+    {
+        "location": "Krustpils  4, Rīga",
+        "wage": 2600
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Skolas 21-401B, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Duntes  22 k-5, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Tērbatas  69, Rīga",
+        "wage": 1506
+    },
+    {
+        "location": "Baltāsbaznīcas  42, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Rāmuļu  24, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Rāmuļu  24, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Rāmuļu  24, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Rāmuļu  24, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Nēģu  7, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Kvēles  11, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Brīvības  155 k-3, Rīga",
+        "wage": 740
+    },
+    {
+        "location": "Lielirbes  15, Rīga",
+        "wage": 1375
+    },
+    {
+        "location": "Ganību dambis 29A, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Lubānas  17A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Latgales  180B, Rīga",
+        "wage": 1430
+    },
+    {
+        "location": "Lubānas  17A, Rīga",
+        "wage": 1530
+    },
+    {
+        "location": "Bruņinieku  151, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Sudrabu Edžus  11A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rātsupītes  1 k-1, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Lemešu  3 k-1 - 18, Rīga, LV-1016",
+        "wage": 1480
+    },
+    {
+        "location": "Brīvības  155 k-3, Rīga",
+        "wage": 720
+    },
+    {
+        "location": "Rītausmas  23, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 3800
+    },
+    {
+        "location": "Upesgrīvas  16, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Daugavgrīvas  34a, Rīga, LV-1048/ Alīses  3a, Rīga, LV-1046",
+        "wage": 980
+    },
+    {
+        "location": "Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1345
+    },
+    {
+        "location": "Vizlas  1, Rīga",
+        "wage": 1345
+    },
+    {
+        "location": "Allažu  2, Rīga, LV-1005/ Klusā  12 k-3, Rīga",
+        "wage": 1345
+    },
+    {
+        "location": "Daugavgrīvas  34a, Rīga, LV-1048/ Alīses  3a, Rīga, LV-1046",
+        "wage": 1345
+    },
+    {
+        "location": "Daugavgrīvas  34A, Rīga",
+        "wage": 1397
+    },
+    {
+        "location": "Daugavgrīvas  34A, Rīga",
+        "wage": 1397
+    },
+    {
+        "location": "Talejas  1, Rīga",
+        "wage": 2700
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 1402
+    },
+    {
+        "location": "Cēsu  3A, Rīga",
+        "wage": 2400
+    },
+    {
+        "location": "Vairoga  39, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Cēsu  3A, Rīga",
+        "wage": 1930
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 1850
+    },
+    {
+        "location": "Bauskas  180, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Bauskas  180, Rīga",
+        "wage": 720
+    },
+    {
+        "location": "Cēsu  31 k-3, Rīga",
+        "wage": 1642
+    },
+    {
+        "location": "\"Lidosta \"Rīga\" 10/1\", Lidosta \"Rīga\", Mārupes pag., Mārupes nov., LV-1053",
+        "wage": 640
+    },
+    {
+        "location": "\"Lidosta \"Rīga\" 10/1\", Lidosta \"Rīga\", Mārupes pag., Mārupes nov., LV-1053",
+        "wage": 960
+    },
+    {
+        "location": "Gaiziņa  3, Rīga",
+        "wage": 1526
+    },
+    {
+        "location": "Daugavgrīvas šoseja 7A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Jēkaba  11, Rīga",
+        "wage": 2304
+    },
+    {
+        "location": "Daugavgrīvas šoseja 7A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Stacijas laukums 4, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Stacijas laukums 4, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Mazā Krasta  83, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Ģertrūdes  36, Rīga, LV-1011",
+        "wage": 2380
+    },
+    {
+        "location": "Tērbatas  14, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Bauskas  180, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Ezermalas  10B, Rīga",
+        "wage": 1395
+    },
+    {
+        "location": "Rīga, Mežciems",
+        "wage": 640
+    },
+    {
+        "location": "Mūkusalas  71, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Ziemeļu  10, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1400
+    },
+    {
+        "location": "Krišjāņa Barona  4, Rīga",
+        "wage": 920
+    },
+    {
+        "location": "Kleistu  24, Rīga",
+        "wage": 1050
+    },
+    {
+        "location": "Kārļa Ulmaņa  3, Rīga",
+        "wage": 1680
+    },
+    {
+        "location": "Hipokrāta  4, Rīga",
+        "wage": 1673
+    },
+    {
+        "location": "Kārļa Mīlenbaha  14, Rīga",
+        "wage": 1226
+    },
+    {
+        "location": "Hipokrāta  25, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Spilves  18, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Klijānu  18, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Klijānu  18, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Klijānu  18, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Klijānu  18, Rīga, LV-1013",
+        "wage": 1540
+    },
+    {
+        "location": "Jelgava, Piņķi, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Brīvības bulvāris 36, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Brīvības bulvāris 36, Rīga",
+        "wage": 1950
+    },
+    {
+        "location": "Emīlijas Benjamiņas  3, Rīga",
+        "wage": 2160
+    },
+    {
+        "location": "Kalnciema  12, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Krišjāņa Valdemāra  41A - 51, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Lizuma  1, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Ojāra Vācieša  43, Rīga",
+        "wage": 1130
+    },
+    {
+        "location": "Kr. Valdemāŗa  2a Rīga",
+        "wage": 3700
+    },
+    {
+        "location": "Ojāra Vācieša  43, Rīga",
+        "wage": 1130
+    },
+    {
+        "location": "Ojāra Vācieša  43, Rīga",
+        "wage": 1570
+    },
+    {
+        "location": "Satekles  2C, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Rīga",
+        "wage": 1920
+    },
+    {
+        "location": "Rīga",
+        "wage": 3000
+    },
+    {
+        "location": "Rīga",
+        "wage": 24000
+    },
+    {
+        "location": "Ojāra Vācieša  43, Rīga",
+        "wage": 1570
+    },
+    {
+        "location": "Lāčplēša  1, Rīga",
+        "wage": 1602
+    },
+    {
+        "location": "Lāčplēša  1, Rīga",
+        "wage": 1602
+    },
+    {
+        "location": "Ziepniekkalna  21A, Rīga",
+        "wage": 2500
+    },
+    {
+        "location": "Ziepniekkalna  21A, Rīga",
+        "wage": 2100
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Stigu  14, Rīga",
+        "wage": 3000
+    },
+    {
+        "location": "Hāpsalas  5 - 93, Rīga",
+        "wage": 1449
+    },
+    {
+        "location": "Strūgu  2A, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Lāčplēša  87F, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Lāčplēša  87F, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Strūgu  2A, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Bruņinieku  33, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Rātsupītes  1 k-1, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Rātsupītes  1 k-1, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Graudu  68, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Rātsupītes  1 k-1, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Festivāla  1 - 38, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Graudu  68, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Krišjāņa Valdemāra  157, Rīga",
+        "wage": 1200
+    },
+    {
+        "location": "Graudu  68, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Ezermalas  8B, Rīga",
+        "wage": 1372
+    },
+    {
+        "location": "Bruņinieku  72B, Rīga",
+        "wage": 1751
+    },
+    {
+        "location": "Bruņinieku  72B, Rīga",
+        "wage": 1150
+    },
+    {
+        "location": "Stacijas laukums 4, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Zilupes  7, Rīga",
+        "wage": 1493
+    },
+    {
+        "location": "Mūkusalas  71, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Ieriķu  3, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Mūkusalas  71, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Kurzemes prospekts 3, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Kurzemes prospekts 17, Rīga",
+        "wage": 1915
+    },
+    {
+        "location": "Atlantijas  51, Rīga",
+        "wage": 1235
+    },
+    {
+        "location": "Latgales  257, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Latgales  257, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Latgales  257, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Paula Lejiņa  12, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Hipokrāta  6, Rīga",
+        "wage": 1155
+    },
+    {
+        "location": "Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Lielvārdes  68, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Latgales  165, Rīga",
+        "wage": 1070
+    },
+    {
+        "location": "Juridiskā adrese: Čiekurkalna 2. līnija 75, Rīga. Darbs objektos Rīgā, visā Latvijā.",
+        "wage": 1020
+    },
+    {
+        "location": "Duntes  22, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Latgales  165, Rīga",
+        "wage": 1150
+    },
+    {
+        "location": "Skanstes  25, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Latgales  165, Rīga",
+        "wage": 1230
+    },
+    {
+        "location": "Valguma  35 - 25, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Rātsupītes  1 k-1, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Braslas  24, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Braslas  24, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Braslas  24, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Republikas laukums 3 - 317, Rīga,Visvalža  7-26, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Dzeņu  7 k-1, Rīga,ofiss 95",
+        "wage": 1540
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1600
+    },
+    {
+        "location": "Brīvības  191, Rīga",
+        "wage": 1675
+    },
+    {
+        "location": "Ganību dambis 32, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Jelgavas  3, Rīga",
+        "wage": 1170
+    },
+    {
+        "location": "Lienes  1 - 3, Rīga",
+        "wage": 1365
+    },
+    {
+        "location": "Dārza  20A, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Lienes  1 - 3, Rīga",
+        "wage": 1365
+    },
+    {
+        "location": "Lienes  1 - 3, Rīga",
+        "wage": 1365
+    },
+    {
+        "location": "Nometņu , Rīga",
+        "wage": 1365
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Rīga,Lastādijas",
+        "wage": 1540
+    },
+    {
+        "location": "Latgales  257B, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Čiekurkalna 1. līnija 1 k-2, Rīga",
+        "wage": 1750
+    },
+    {
+        "location": "Čiekurkalna 1. līnija 1, Rīga",
+        "wage": 1700
+    },
+    {
+        "location": "Brīvības  266, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Miera  45, Rīga",
+        "wage": 1680
+    },
+    {
+        "location": "Baznīcas  19/23, Rīga",
+        "wage": 1485
+    },
+    {
+        "location": "Vidrižu  1A, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Baldones  2, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Lāčplēša  1, Rīga",
+        "wage": 2117
+    },
+    {
+        "location": "Linezera  6, Rīga",
+        "wage": 3292
+    },
+    {
+        "location": "Vienības  45, Rīga",
+        "wage": 1050
+    },
+    {
+        "location": "Ilzenes  1, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Bauskas  209, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Kleistu  29, Rīga",
+        "wage": 1825
+    },
+    {
+        "location": "Ziepniekkalna  70, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Ilzenes  1D, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Ilzenes  1D, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Ziepniekkalna  70, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Ilzenes  1E, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Malienas  3A, Rīga",
+        "wage": 1155
+    },
+    {
+        "location": "Birzes  54, Rīga",
+        "wage": 1430
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Kārļa Ulmaņa  5B, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Kārļa Ulmaņa  5B, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Lāčplēša  1, Rīga",
+        "wage": 1993
+    },
+    {
+        "location": "Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Rīga",
+        "wage": 2047
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 2800
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2400
+    },
+    {
+        "location": "Latviešu strēlnieku laukums 1, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Talejas  1, Rīga",
+        "wage": 5000
+    },
+    {
+        "location": "Abulas  2, Rīga",
+        "wage": 935
+    },
+    {
+        "location": "Krustpils  4, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Raiņa bulvāris 33, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Emīlijas Benjamiņas  3, Rīga",
+        "wage": 1710
+    },
+    {
+        "location": "Pakalniešu  7, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "LATVIJA, Ganību dambis 22D, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Latgales  257, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Ojāra Vācieša  6 k-1, Rīga",
+        "wage": 2250
+    },
+    {
+        "location": "Purvciema  23A, Rīga",
+        "wage": 1160
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1800
+    },
+    {
+        "location": "Krišjāņa Barona  52, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Rīga",
+        "wage": 2400
+    },
+    {
+        "location": "Rīga",
+        "wage": 2400
+    },
+    {
+        "location": "Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Kronvalda bulvāris 3 - 3, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Lielvārdes  68, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Kronvalda bulvāris 3 - 3, Rīga",
+        "wage": 950
+    },
+    {
+        "location": "Bauskas  180, Rīga",
+        "wage": 1075
+    },
+    {
+        "location": "Šampētera  2, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Lielvārdes  68, Rīga",
+        "wage": 1402
+    },
+    {
+        "location": "Smilšu  1, Rīga",
+        "wage": 1483
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1600
+    },
+    {
+        "location": "Krišjāņa Valdemāra  2A, Rīga",
+        "wage": 2700
+    },
+    {
+        "location": "Gaiļezera  8, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Sarkandaugavas  5/7, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Brīvības  235, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Brīvības  235, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Gustava Zemgala  76, Rīga",
+        "wage": 3100
+    },
+    {
+        "location": "Ģertrūdes  14, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Augusta Deglava  120, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Vienības  45, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Ruses  9, Rīga",
+        "wage": 750
+    },
+    {
+        "location": "Biešu  6, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Sniķeres  25 k-1, Rīga, LV-1067",
+        "wage": 1537
+    },
+    {
+        "location": "Zolitūdes  34, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Anniņmuižas bulvāris 40A, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Stūrmaņu  29, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Klijānu  7, Rīga",
+        "wage": 1364
+    },
+    {
+        "location": "Ganību Dambis 26A - 312, Rīga, Latvija; Rencēnu  8, Rīga, Latvija",
+        "wage": 1537
+    },
+    {
+        "location": "Ganību Dambis 26A - 312, Rīga, Latvija; Rencēnu  8, Rīga, Latvija",
+        "wage": 1537
+    },
+    {
+        "location": "Ganību Dambis 26A - 312, Rīga, Latvija; Rencēnu  8, Rīga, Latvija",
+        "wage": 1537
+    },
+    {
+        "location": "Klijānu  7, Rīga",
+        "wage": 2645
+    },
+    {
+        "location": "Ganību Dambis 26A - 312, Rīga, Latvija; Rencēnu  8, Rīga, Latvija",
+        "wage": 1537
+    },
+    {
+        "location": "Baznīcas  31, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Hipokrāta  4, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Ganību Dambis 26A - 312, Rīga, Latvija; Rencēnu  8, Rīga, Latvija",
+        "wage": 1537
+    },
+    {
+        "location": "Alberta  10, Rīga",
+        "wage": 1859
+    },
+    {
+        "location": "Jelgavas  3, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Brīvības  191, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Jelgavas  3, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Jelgavas  3, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Brīvības  191, Rīga",
+        "wage": 1360
+    },
+    {
+        "location": "Marijas  18, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Ulbrokas  19, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Hipokrāta  4, Rīga",
+        "wage": 1552
+    },
+    {
+        "location": "Krišjāņa Valdemāra  77 - 3, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Peldu  19, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Prūšu  7, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Krišjāņa Valdemāra  77 - 3, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Hospitāļu  8, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Atlantijas  15, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Ēbelmuižas  10, Rīga",
+        "wage": 933
+    },
+    {
+        "location": "Mellužu  17 - 4, Rīga",
+        "wage": 1560
+    },
+    {
+        "location": "Mellužu  17 - 4, Rīga",
+        "wage": 1560
+    },
+    {
+        "location": "Rencēnu  8, Rīga,Natālijas  4-6, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rencēnu  8, Rīga,Natālijas  4-6, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rencēnu  8, Rīga,Natālijas  4-6, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rencēnu  8, Rīga,Natālijas  4-6, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rencēnu  8, Rīga,Natālijas  4-6, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Latgales  357, Rīga",
+        "wage": 900
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2045
+    },
+    {
+        "location": "Nulpes  27B, Rīga",
+        "wage": 900
+    },
+    {
+        "location": "Brīvības  235, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Katlakalna  9A, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Lubānas  42, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Alberta  10, Rīga",
+        "wage": 1859
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 1700
+    },
+    {
+        "location": "Rankas  13, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rīga",
+        "wage": 2080
+    },
+    {
+        "location": "Rīga",
+        "wage": 2500
+    },
+    {
+        "location": "Rankas  13, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Jelgavas  90, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Lāčplēša  20A, Rīga",
+        "wage": 1510
+    },
+    {
+        "location": "Stabu  89, Rīga",
+        "wage": 1190
+    },
+    {
+        "location": "Sapieru  5, Rīga",
+        "wage": 1122
+    },
+    {
+        "location": "Vestienas  4, Rīga",
+        "wage": 707
+    },
+    {
+        "location": "Sapieru  5, Rīga",
+        "wage": 1297
+    },
+    {
+        "location": "Ganību dambis 33, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Daugavgrīvas šoseja 7A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Ganību dambis 33, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Daugavgrīvas šoseja 7A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Flotes  7, Rīga",
+        "wage": 1700
+    },
+    {
+        "location": "Ezermalas  10, Rīga",
+        "wage": 1813
+    },
+    {
+        "location": "Jelgavas  90, Rīga",
+        "wage": 2600
+    },
+    {
+        "location": "Rīgas prospekts 1, Ziemeļblāzma, Skultes pag., Limbažu nov.",
+        "wage": 1050
+    },
+    {
+        "location": "Hipokrāta  4, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Mārupes  35, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 1760
+    },
+    {
+        "location": "Katlakalna  4B, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Aizkraukles  21, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Rīgas  51, Ādaži, Ādažu nov.",
+        "wage": 960
+    },
+    {
+        "location": "Kārļa Ulmaņa  96, Rīga",
+        "wage": 1200
+    },
+    {
+        "location": "Valles saieta nams Rīgas ielā 4, Valles pag., Bauskas nov., LV-5106",
+        "wage": 820
+    },
+    {
+        "location": "Zaķusalas krastmala 33, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Zaķusalas krastmala 33, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Zaķusalas krastmala 33, Rīga",
+        "wage": 1900
+    },
+    {
+        "location": "Linezera  3, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Brīvības  58, Rīga",
+        "wage": 2200
+    },
+    {
+        "location": "Linezera  3, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Artilērijas  3, Rīga",
+        "wage": 5000
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Ģertrūdes  66, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Ģertrūdes  66, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Ģertrūdes  66, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Ģertrūdes  66, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Rīga, Mežciems",
+        "wage": 640
+    },
+    {
+        "location": "Abulas  2, Rīga",
+        "wage": 935
+    },
+    {
+        "location": "Kurzemes prospekts 158, Rīga",
+        "wage": 1570
+    },
+    {
+        "location": "Kurzemes prospekts 158, Rīga",
+        "wage": 1570
+    },
+    {
+        "location": "Rīga",
+        "wage": 1518
+    },
+    {
+        "location": "Linezera  3, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Latgales  81C - 17, Rīga,LV-1003",
+        "wage": 1440
+    },
+    {
+        "location": "Tērbatas  14, Rīga",
+        "wage": 1550
+    },
+    {
+        "location": "Dreiliņi, Rīga",
+        "wage": 2500
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 1285
+    },
+    {
+        "location": "Dzirnavu  36, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Jūrmalas  16B, Rīga,LV-1083, Latvija",
+        "wage": 1365
+    },
+    {
+        "location": "Gunāra Astras  8B, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Peldu  30, Rīga",
+        "wage": 1528
+    },
+    {
+        "location": "Hipokrāta  4, Rīga",
+        "wage": 1402
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 1158
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 906
+    },
+    {
+        "location": "Lielvārdes  68, Rīga",
+        "wage": 1552
+    },
+    {
+        "location": "Hospitāļu  9, Rīga, un Jelgavas  1, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Lielvārdes  68, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Linezera  6, Rīga",
+        "wage": 1577
+    },
+    {
+        "location": "Rīga",
+        "wage": 2175
+    },
+    {
+        "location": "Kleistu  31, Rīga",
+        "wage": 2080
+    },
+    {
+        "location": "Latgales  322, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Grēdu  15, Rīga",
+        "wage": 1377
+    },
+    {
+        "location": "Tērbatas  74, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Priedaines  11, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Brīvības  308, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīga, Augusta Deglava  7 - 23, LV-1009",
+        "wage": 1477
+    },
+    {
+        "location": "Ziemeļu  10, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 2500
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1600
+    },
+    {
+        "location": "Rīga",
+        "wage": 1518
+    },
+    {
+        "location": "Rīga",
+        "wage": 1518
+    },
+    {
+        "location": "Rīga",
+        "wage": 1650
+    },
+    {
+        "location": "Stūrmaņu  29, Rīga",
+        "wage": 1480
+    },
+    {
+        "location": "Alberta  10, Rīga",
+        "wage": 1516
+    },
+    {
+        "location": "Katlakalna  11E, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Rīga",
+        "wage": 1650
+    },
+    {
+        "location": "Hipokrāta  4, Rīga",
+        "wage": 1552
+    },
+    {
+        "location": "Ziemeļu  10, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 2500
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Rīga",
+        "wage": 2300
+    },
+    {
+        "location": "Rīga",
+        "wage": 24000
+    },
+    {
+        "location": "Spilves  18, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Dārzciema  57, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Ezermalas  10, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Rīga",
+        "wage": 2128
+    },
+    {
+        "location": "Mūkusalas  71, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Stabu  47, Centra rajons, Rīga, LV-1011",
+        "wage": 1537
+    },
+    {
+        "location": "Čuguna  36, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Latgales  257, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Mangaļu prospekts 62 - 1, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Slokas  16, Rīga",
+        "wage": 1758
+    },
+    {
+        "location": "Avotu  4, Rīga",
+        "wage": 950
+    },
+    {
+        "location": "Brāļu Kaudzīšu  25 - 42, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Ganību dambis 26A, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Vienības  109, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Vienības  109, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Vienības  109, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Vienības  109, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Vienības  109, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Vienības  109, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Vienības  109, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Alberta  10, Rīga",
+        "wage": 1516
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Raiņa bulvāris 19, Rīga",
+        "wage": 2240
+    },
+    {
+        "location": "Kalnciema  118, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Imantas 18. līnija 1, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Imantas 18. līnija 1, Rīga",
+        "wage": 1094
+    },
+    {
+        "location": "Imantas 18. līnija 1, Rīga",
+        "wage": 825
+    },
+    {
+        "location": "Katlakalna  11E, Rīga",
+        "wage": 2200
+    },
+    {
+        "location": "Krišjāņa Valdemāra  62, Rīga",
+        "wage": 2800
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Hipokrāta  2, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Braslas  22, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Dēļu  4, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Rīga, Latvija",
+        "wage": 1537
+    },
+    {
+        "location": "Rātsupītes  1 k-1, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rātsupītes  1 k-1, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Rātsupītes  1 k-1, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Skanstes  31A, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Buļļu  45B, Rīga",
+        "wage": 1365
+    },
+    {
+        "location": "Mūkusalas  46B, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Jelgavas  1, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1700
+    },
+    {
+        "location": "Kleistu  18A - 2, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Kleistu  18A - 2, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Rīga",
+        "wage": 1180
+    },
+    {
+        "location": "Jelgavas  1, Rīga",
+        "wage": 1900
+    },
+    {
+        "location": "Jelgavas  1, Rīga",
+        "wage": 950
+    },
+    {
+        "location": "Baznīcas  1, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Jelgavas  1, Rīga",
+        "wage": 950
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Latgales  295, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Krišjāņa Barona  21, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Brāļu Kaudzīšu  25 - 42, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Augusta Dombrovska  75 k-2 - 37, Rīga, LV-1015",
+        "wage": 1570
+    },
+    {
+        "location": "Rencēnu  8, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Salaspils  20 - 30, Rīga",
+        "wage": 1450
+    },
+    {
+        "location": "Rīga, Latvija",
+        "wage": 1449
+    },
+    {
+        "location": "Nolitavas  5, Rīga, Kr. Valdemāra  17A, Rīga un citi objekti Rīgā un Pierīgā.",
+        "wage": 1247
+    },
+    {
+        "location": "Lāčplēša  20A, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Kristapa  8B - 145, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Kristapa  8B - 145, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Salaspils  6 k-5 - 18, Rīga",
+        "wage": 1566
+    },
+    {
+        "location": "Uriekstes  3, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Gogoļa  3, Rīga",
+        "wage": 1277
+    },
+    {
+        "location": "Rīga, Flotes , 13",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga, Flotes , 13",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga, Flotes , 13",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Raunas  44 k-1, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Mūkusalas  71, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Dzirciema  119B, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Dzirnavu  67, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Brīvības  171, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Salaspils  20B, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Jelgavas  37, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Biķernieku  21, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Ģertrūdes  66, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 3400
+    },
+    {
+        "location": "Dzirnavu  55, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Augusta Deglava  82, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Lāčplēša  87F, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Gogoļa  3, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Dzelzavas  25 - 169, Rīga, LV-1084",
+        "wage": 1800
+    },
+    {
+        "location": "Dzelzavas  25 - 169, Rīga, LV-1084",
+        "wage": 1800
+    },
+    {
+        "location": "Dzelzavas  25 - 169, Rīga, LV-1084",
+        "wage": 1800
+    },
+    {
+        "location": "Dzelzavas  25 - 169, Rīga, LV-1084",
+        "wage": 1800
+    },
+    {
+        "location": "Kleistu  28, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Rīga, Dižozolu  9 - 1, LV-1058 un citās darba vietās (objektos) pēc darba devēja rīkojuma",
+        "wage": 930
+    },
+    {
+        "location": "Rīga, Dižozolu  9 - 1, LV-1058 un citās darba vietās (objektos) pēc darba devēja rīkojuma",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Katlakalna  9A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Katlakalna  9A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Kurzemes prospekts 3G, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Zaļā  1, Rīga",
+        "wage": 1650
+    },
+    {
+        "location": "Zaļā  1, Rīga",
+        "wage": 1650
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Braila  2, Rīga",
+        "wage": 1434
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1800
+    },
+    {
+        "location": "Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Klijānu  14, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Klijānu  14, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Marijas  16, Rīga",
+        "wage": 995
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Mežotnes  71, Rīga",
+        "wage": 975
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Jaunā Teika, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Rankas  13, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Ģertrūdes  9, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Spilves  6, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Valdeķu  36, Rīga",
+        "wage": 1365
+    },
+    {
+        "location": "Kleistu  28, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 3300
+    },
+    {
+        "location": "Alberta  13, Rīga",
+        "wage": 2500
+    },
+    {
+        "location": "Gustava Zemgala  74A, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Augusta Dombrovska  75 k-2 - 37, Rīga, LV-1015",
+        "wage": 1373
+    },
+    {
+        "location": "Mežkalna  5, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Lubānas  82, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Strautu  23 - 40, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Dzirnavu  57A - 4, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Tērbatas  28 - 15, Rīga",
+        "wage": 1545
+    },
+    {
+        "location": "Tērbatas  28 - 15, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Brīvības  151, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Brīvības  151, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Brīvības  151, Rīga",
+        "wage": 769
+    },
+    {
+        "location": "Brīvības  151, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Brīvības  151, Rīga",
+        "wage": 966
+    },
+    {
+        "location": "Jaunmoku  34, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Mangaļu prospekts 62 - 1, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Kārļa Ulmaņa  2, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Kārļa Ulmaņa  2, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Lielirbes  29, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Skanstes  25, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Vienības  194A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Aleksandra Čaka  136, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Krišjāņa Valdemāra  62, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Dzelzavas  86, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Mazā Matīsa  5, Rīga",
+        "wage": 830
+    },
+    {
+        "location": "Brīvības  372, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Duntes  19A, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Aspazijas bulvāris 22, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Valguma  35 - 25, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Valguma  35 - 25, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Valguma  35 - 25, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Olaine, Olaines nov., un Rīgas reģionā",
+        "wage": 930
+    },
+    {
+        "location": "Rīga,Brīvības  214",
+        "wage": 1844
+    },
+    {
+        "location": "Brīvības  214, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Marijas  16, Rīga",
+        "wage": 940
+    },
+    {
+        "location": "Dzirnavu  119, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Atlantijas  51, Rīga",
+        "wage": 1235
+    },
+    {
+        "location": "Klijānu  14, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Daugavgrīvas  112, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga, Murjāņu  151; Rīga, Murjāņu  70 un/vai citos objektos.",
+        "wage": 930
+    },
+    {
+        "location": "Rīga, Murjāņu  151; Rīga, Murjāņu  70 un/vai citos objektos.",
+        "wage": 930
+    },
+    {
+        "location": "Dzelzavas  120G, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Mazā Matīsa  5, Rīga",
+        "wage": 1080
+    },
+    {
+        "location": "Tvaikoņu  3, Rīga",
+        "wage": 1080
+    },
+    {
+        "location": "Mazā Matīsa  5, Rīga",
+        "wage": 1080
+    },
+    {
+        "location": "Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīga, Murjāņu  151; Rīga, Murjāņu  70 un/vai citos objektos.",
+        "wage": 930
+    },
+    {
+        "location": "Rītausmas  4B, Rīga, LV-1058",
+        "wage": 1460
+    },
+    {
+        "location": "Kārļa Ulmaņa  90, Rīga",
+        "wage": 1920
+    },
+    {
+        "location": "Stabu  89, Rīga",
+        "wage": 1830
+    },
+    {
+        "location": "Apuzes  34, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Apuzes  34, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Usmas  5 - 1, Rīga, LV-1083",
+        "wage": 1480
+    },
+    {
+        "location": "Usmas  5 - 1, Rīga, LV-1083",
+        "wage": 1480
+    },
+    {
+        "location": "Krišjāņa Valdemāra  77, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Krišjāņa Valdemāra  77, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Parādes  28 - 69, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Mārupes  10A, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Juglas krastmala 2, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Audēju  16, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Nīcgales  2, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Brīvības  372, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Ķīšezera  6, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Pulkveža Brieža  33A, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Vienības  95, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Brīvības  372, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Valdeķu  51, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Brīvības  372, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Satekles  2, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Krišjāņa Valdemāra  112, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Pulkveža Brieža  33A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Ķīšezera  6, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Valguma  35 - 25, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Dzirnavu  67, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Aristida Briāna  13, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Aristida Briāna  13, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Dzelzavas  87, Rīga",
+        "wage": 1068
+    },
+    {
+        "location": "Aristida Briāna  13, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Bieķensalas  8, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Blaumaņa  6 - 14, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Blaumaņa  6 - 14, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Blaumaņa  6 - 14, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Blaumaņa  6 - 14, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Antonijas  16A - 33, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Tērbatas  14, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Rātsupītes  5A, Rīga",
+        "wage": 5000
+    },
+    {
+        "location": "Kalpaka bulvāris 13, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Kūdras  8B, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Grēcinieku  11A, Rīga",
+        "wage": 995
+    },
+    {
+        "location": "Matrožu  7A, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Rīga, Sergeja Eizenšteina  29, LV-1079",
+        "wage": 930
+    },
+    {
+        "location": "Klijānu  8, Rīga",
+        "wage": 1370
+    },
+    {
+        "location": "Gustava Zemgala  74, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Pirts  4, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Nometņu  58, Rīga",
+        "wage": 995
+    },
+    {
+        "location": "Ezermalas  1C, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Stigu  10, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Pūces  53 - 17, Rīga, LV-1082",
+        "wage": 1477
+    },
+    {
+        "location": "Brīvības bulvāris 21, LV-1050, Rīga",
+        "wage": 1700
+    },
+    {
+        "location": "Brīvības bulvāris 21, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Ganību dambis 26A, Rīga, LV-1005",
+        "wage": 1477
+    },
+    {
+        "location": "Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Dzērvju  6, Rīga, LV-1019",
+        "wage": 930
+    },
+    {
+        "location": "Dzērvju  6, Rīga, LV-1019",
+        "wage": 930
+    },
+    {
+        "location": "Jēkaba  24, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Mežapurva  2, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Jūrmalas  136, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Artilērijas  40, Rīga, LV-1009, Roga, Kaunatas pagasts, Rēzeknes novads, LV-4622",
+        "wage": 1050
+    },
+    {
+        "location": "LATVIJA, Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 4800
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 4740
+    },
+    {
+        "location": "Braslas  29 - 6, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Sniķeres  25 k-1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Lāčplēša  87, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rencēnu  32, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Ilūkstes  34 - 105, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Brīvības  117 - 39, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Blaumaņa  9 - 19, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Tallinas  57B - 11, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Riekstu  18, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Noliktavas  5, Rīga,K.Valdemāra  17A, Rīga, Ziedu  14, Carnikavā un citi objekti",
+        "wage": 1449
+    },
+    {
+        "location": "Grēcinieku  11A, Rīga",
+        "wage": 995
+    },
+    {
+        "location": "Lazdu  16D, Rīga, LV-1029",
+        "wage": 1365
+    },
+    {
+        "location": "Rīgas prospekts 1, Ziemeļblāzma, Skultes pag., Limbažu nov.",
+        "wage": 640
+    },
+    {
+        "location": "Granīta  9A, Rīga",
+        "wage": 1200
+    },
+    {
+        "location": "Granīta  9A, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Nikolaja Rēriha  1A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Nikolaja Rēriha  1A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Granīta  9A, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Rankas  13, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Gunāra Astras  8A, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Vadžu  34, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Pils  21, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Strūgu  2A, Rīga",
+        "wage": 2549
+    },
+    {
+        "location": "Valdeķu  36, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Aglonas  28 - 96, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rīga, Cēsu  31 k-3, LV-1012",
+        "wage": 1537
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1500
+    },
+    {
+        "location": "Krustpils  70A, Rīga",
+        "wage": 730
+    },
+    {
+        "location": "Dzirnavu  37 - 41, Rīga",
+        "wage": 2769
+    },
+    {
+        "location": "Dzirnavu  37 - 41, Rīga",
+        "wage": 2478
+    },
+    {
+        "location": "Dzirnavu  37 - 41, Rīga",
+        "wage": 2769
+    },
+    {
+        "location": "Mārupes  10A, Rīga",
+        "wage": 905
+    },
+    {
+        "location": "Šmerļa  3, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Bruņinieku  33, Rīga",
+        "wage": 980
+    },
+    {
+        "location": "Bruņinieku  33, Rīga",
+        "wage": 980
+    },
+    {
+        "location": "Dzirnavu  140, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Baznīcas  27/29, Rīga",
+        "wage": 1499
+    },
+    {
+        "location": "Kurzemes prospekts 1A, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Pulkveža Brieža  33, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Brīvības  171, Rīga",
+        "wage": 1150
+    },
+    {
+        "location": "Imantas 15. līnija 7, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Satekles  2B, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Biķernieku  160, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Āzenes  5, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rīgas  5, Ādaži, Ādažu nov.",
+        "wage": 800
+    },
+    {
+        "location": "Starta  1, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Āzenes  5, Rīga",
+        "wage": 905
+    },
+    {
+        "location": "Brīvības  432, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Pulkveža Brieža  12, Rīga, un attālināti",
+        "wage": 2000
+    },
+    {
+        "location": "Sniķeres  25 k-1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Pils  21, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Kalna , Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Nometņu  58, Rīga",
+        "wage": 995
+    },
+    {
+        "location": "Skārņu  7, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Grēcinieku  1, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Stigu , Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Melnsila  23, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Matīsa  78A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Melnsila  14 - 10, Rīga",
+        "wage": 1277
+    },
+    {
+        "location": "Lielirbes  1, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Skanstes  25, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Skanstes  25, Rīga",
+        "wage": 2700
+    },
+    {
+        "location": "Skanstes  25, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Skanstes  25, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Noliktavas  5, Rīga,K. Valdemāra 17A, Rīga, Ziedu  14, Carnikava un citi objekti visā Latvijas teritorijā",
+        "wage": 1449
+    },
+    {
+        "location": "Mazā Krasta  83, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Brīvības  432, Rīga,; Krišjāņa Valdemāra  24–1, Rīga, Latvija, LV-1010",
+        "wage": 960
+    },
+    {
+        "location": "Brīvības  367 - 34, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rušonu  30 - 15, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīga, Vecmīlgrāvis",
+        "wage": 640
+    },
+    {
+        "location": "Noliktavas  5, Rīga,K. Valdemāra 17A, Rīga, Ziedu  14, Carnikava un citi objekti visā Latvijas teritorijā",
+        "wage": 1537
+    },
+    {
+        "location": "Ezermalas  19 - 22, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Ezermalas  19 - 22, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Uriekstes  3, Rīga, Nolitavas  5, Rīga, Kr. Valdemāra  17A, Rīga un citi objekti Rīgā un Pierīgā",
+        "wage": 1449
+    },
+    {
+        "location": "Ezermalas  19 - 22, Rīga",
+        "wage": 950
+    },
+    {
+        "location": "Ģertrūdes  10, Rīga, un attālināti",
+        "wage": 1200
+    },
+    {
+        "location": "Berģu  142, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Imantas 15. līnija 7, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Pulkveža Brieža  33A, Rīga",
+        "wage": 905
+    },
+    {
+        "location": "Biķernieku  21, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Tvaikoņu  3, Rīga",
+        "wage": 2405
+    },
+    {
+        "location": "Tvaikoņu  3, Rīga",
+        "wage": 2405
+    },
+    {
+        "location": "Tvaikoņu  3, Rīga",
+        "wage": 2405
+    },
+    {
+        "location": "Tvaikoņu  3, Rīga",
+        "wage": 2405
+    },
+    {
+        "location": "Dzirnavu  36, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Matīsa  78A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Granīta  9A, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Krišjāņa Valdemāra  112, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Ganību dambis 40, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Ganību dambis 40, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Ģertrūdes  66, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Malienas  89, Rīga",
+        "wage": 763
+    },
+    {
+        "location": "Malienas  89, Rīga",
+        "wage": 1068
+    },
+    {
+        "location": "Malienas  89, Rīga",
+        "wage": 825
+    },
+    {
+        "location": "Gāles  2, Ziemeļu rajons, Rīga, LV-1015",
+        "wage": 1460
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Ganību dambis 26A, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga , Centrs",
+        "wage": 1200
+    },
+    {
+        "location": "Latgales  250 k-1 - 32, Rīga, LV-1063",
+        "wage": 930
+    },
+    {
+        "location": "Braslas  22B, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rītausmas  16, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 2800
+    },
+    {
+        "location": "Brīvības  301, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1945
+    },
+    {
+        "location": "Birztalu  15, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Augusta Dombrovska  9C, Rīga",
+        "wage": 1525
+    },
+    {
+        "location": "Smilšu , Rīga",
+        "wage": 750
+    },
+    {
+        "location": "Andreja Saharova  16, Rīga",
+        "wage": 1900
+    },
+    {
+        "location": "Kapseļu  4D - 18, Rīga, LV-1046",
+        "wage": 1477
+    },
+    {
+        "location": "Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Tērbatas  28 - 15, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Baznīcas , Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Rencēnu  32, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Mazā Matīsa  5, Rīga",
+        "wage": 1575
+    },
+    {
+        "location": "Ganību dambis 7, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Biķernieku  75A, Rīga",
+        "wage": 1240
+    },
+    {
+        "location": "Mazā Matīsa  5, Rīga",
+        "wage": 2405
+    },
+    {
+        "location": "Mazā Matīsa  5, Rīga",
+        "wage": 2405
+    },
+    {
+        "location": "Mazā Matīsa  5, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Mazā Matīsa  5, Rīga",
+        "wage": 2600
+    },
+    {
+        "location": "Mazā Matīsa  5, Rīga",
+        "wage": 2405
+    },
+    {
+        "location": "Mazā Matīsa  5, Rīga",
+        "wage": 1735
+    },
+    {
+        "location": "Mazā Matīsa  5, Rīga",
+        "wage": 2405
+    },
+    {
+        "location": "Mazā Matīsa  5, Rīga",
+        "wage": 1370
+    },
+    {
+        "location": "Gaiļezera  8, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Šķūņu  19, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Pērnavas  36, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Sniķeres  25 k-1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Juglas  25, Rīga",
+        "wage": 1150
+    },
+    {
+        "location": "Brīvības  171, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Augusta Deglava  161, Rīga",
+        "wage": 1090
+    },
+    {
+        "location": "Sniķeres  25 k-1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Āzenes  5, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Krišjāņa Valdemāra  112, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rīgas  5, Ādaži, Ādažu nov.",
+        "wage": 800
+    },
+    {
+        "location": "Kurzemes prospekts 1A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Valdlauču  2, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Āzenes  5, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Brīvības  201, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Satekles  2B, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Biķernieku  160, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Anniņmuižas bulvāris 90, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Krišjāņa Barona  46, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rīgas  5, Ādaži, Ādažu nov.",
+        "wage": 800
+    },
+    {
+        "location": "Biķernieku  160, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Brīvības  372, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Kreimeņu  4A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Vaidelotes  11A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Jaunmoku  21, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Dzirnavu  67, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Jaunmoku  21, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Eksporta  5, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Lielirbes  29, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Sēlpils  15, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Krišjāņa Barona  46, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Mārupes  10A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Valdlauču  2, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Ķīšezera  6, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Marijas  14, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Juglas krastmala 2, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Anniņmuižas bulvāris 40A, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Jaunmoku  21, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rīgas  5, Ādaži, Ādažu nov.",
+        "wage": 800
+    },
+    {
+        "location": "Biķernieku  160, Rīga",
+        "wage": 905
+    },
+    {
+        "location": "Imantas 15. līnija 7, Rīga",
+        "wage": 905
+    },
+    {
+        "location": "Latgales  256B, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Krišjāņa Valdemāra  62, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Krišjāņa Valdemāra  112, Rīga",
+        "wage": 905
+    },
+    {
+        "location": "Krasta  46, Rīga",
+        "wage": 905
+    },
+    {
+        "location": "Nīcgales  2, Rīga",
+        "wage": 905
+    },
+    {
+        "location": "Krišjāņa Barona  46, Rīga",
+        "wage": 905
+    },
+    {
+        "location": "Matīsa  25, Rīga",
+        "wage": 905
+    },
+    {
+        "location": "Brīvības  372, Rīga",
+        "wage": 905
+    },
+    {
+        "location": "Kungu  1, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Ķīšezera  6, Rīga",
+        "wage": 905
+    },
+    {
+        "location": "Audēju  16, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Lidoņu  28 - 5, Rīga",
+        "wage": 1375
+    },
+    {
+        "location": "Ķīšezera  6, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Brīvības  372, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Augusta Deglava  161, Rīga",
+        "wage": 920
+    },
+    {
+        "location": "Ganību dambis, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Topošais veikals Ķīšezera  8 , Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Višķu  2 k-1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Matīsa  41, Rīga",
+        "wage": 1480
+    },
+    {
+        "location": "Latgales  322, Rīga",
+        "wage": 1480
+    },
+    {
+        "location": "Latgales  322, Rīga",
+        "wage": 1480
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Artilērijas  40, Rīga",
+        "wage": 1247
+    },
+    {
+        "location": "Vestienas  35, Rīga",
+        "wage": 1230
+    },
+    {
+        "location": "Gogoļa  3, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Atgāzenes  24A, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Tērbatas  28 - 15, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Kurzemes prospekts 3D, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Dzirnavu  57A - 4, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Krustpils  31, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Daugavgrīvas  81 k-2, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Daugavgrīvas  81 k-2, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Alekša  11 - 32, Rīga,un citi objekti Rīgā un Latvijā",
+        "wage": 930
+    },
+    {
+        "location": "Zilupes  7, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Granīta  7, Rīga",
+        "wage": 1200
+    },
+    {
+        "location": "Gogoļa  3, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Bruņinieku  33, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1900
+    },
+    {
+        "location": "Ezermalas , Rīga",
+        "wage": 1700
+    },
+    {
+        "location": "Rītausmas  2B, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Katlakalna  9A, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Rīga, Vidzemes aleja 3 - 63, LV-1024",
+        "wage": 1500
+    },
+    {
+        "location": "Krustpils  35, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Dzirnavu  113A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Citadeles  2-610, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Krustabaznīcas  12B, Rīga",
+        "wage": 1573
+    },
+    {
+        "location": "Rīgas  8, Ādaži, Ādažu pagasts, Ādažu novads, LV-2164",
+        "wage": 1460
+    },
+    {
+        "location": "Nolitavas  5, Rīga, K.Valdemāra  17A, Rīga, Kalēju  74-19, Rīga un citi objekti",
+        "wage": 1449
+    },
+    {
+        "location": "Nolitavas  5, Rīga, K.Valdemāra  17A, Rīga, Kalēju  74-19, Rīga un citi objekti",
+        "wage": 1449
+    },
+    {
+        "location": "Bruņinieku  52, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Braslas  24, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Braslas  24, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Ganību dambis 22D, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Rušonu  30 - 15, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Sniķeres  25 k-2, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Varavīksnes  6 - 60, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Katoļu  9 k-1 - 2, Rīga, LV-1003 un citās darba vietās pēc darba devēja rīkojuma.",
+        "wage": 930
+    },
+    {
+        "location": "Lāčplēša  87, Rīga",
+        "wage": 900
+    },
+    {
+        "location": "Rītausmas  4A, Rīga, LV-1058",
+        "wage": 1477
+    },
+    {
+        "location": "Uriekstes  18, Rīga",
+        "wage": 1670
+    },
+    {
+        "location": "Daugavgrīvas  112, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Mangaļu prospekts 62 - 1, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Krišjāņa Valdemāra  62, Rīga, LV-1013",
+        "wage": 1537
+    },
+    {
+        "location": "Rūpniecības  19-1, Rīga, LV-1010",
+        "wage": 930
+    },
+    {
+        "location": "Noliktavas  5, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Krišjāņa Valdemāra  62, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Alekša  11 - 32, Rīga, un citi uzņemuma objekti Rīgā un Latvijā.",
+        "wage": 1537
+    },
+    {
+        "location": "Krišjāņa Valdemāra  62, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīga, tramvaja maršrutā no tc Dole līdz Kārļa Mīlenbaha ielai",
+        "wage": 930
+    },
+    {
+        "location": "Dzirnavu  57A - 4, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Rītausmas  16, Rīga, LV-1058",
+        "wage": 1460
+    },
+    {
+        "location": "Rītausmas  4B, Rīga, LV-1058",
+        "wage": 1247
+    },
+    {
+        "location": "Zvaigžņu  21, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Altonavas  17, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 7500
+    },
+    {
+        "location": "Spulgas  25, Rīga",
+        "wage": 950
+    },
+    {
+        "location": "Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Vīlandes  1 - 13, Rīga",
+        "wage": 1050
+    },
+    {
+        "location": "Ģertrūdes  94, Rīga,darbam Dānijā",
+        "wage": 3600
+    },
+    {
+        "location": "Ģertrūdes  94, Rīga,darbam Dānijā",
+        "wage": 3600
+    },
+    {
+        "location": "Daugavgrīvas šoseja 7B, Rīga",
+        "wage": 1550
+    },
+    {
+        "location": "Ģertrūdes  94, Rīga,darbam Norvēģijā",
+        "wage": 3600
+    },
+    {
+        "location": "Daugavgrīvas šoseja 7B, Rīga",
+        "wage": 1550
+    },
+    {
+        "location": "Ģertrūdes  94, Rīga,darbam Norvēģijā",
+        "wage": 3600
+    },
+    {
+        "location": "Ventspils  45B, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Ventspils  45B, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Ventspils  45B, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Pils  7 - 1, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Pils  7, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Pils  7 - 1, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Ezermalas  10B, Rīga",
+        "wage": 1515
+    },
+    {
+        "location": "Pils  7 - 1, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Vestienas  4, Rīga",
+        "wage": 1395
+    },
+    {
+        "location": "Klīveru  1, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Brīvības bulvāris 21, Rīga",
+        "wage": 2300
+    },
+    {
+        "location": "Gustava Zemgala  74A, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Gustava Zemgala  74, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Cēsu  3A, Rīga",
+        "wage": 1750
+    },
+    {
+        "location": "Gogoļa  3, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Tērbatas  37, Rīga",
+        "wage": 1450
+    },
+    {
+        "location": "Dzelzavas  70 - 3, Rīga",
+        "wage": 950
+    },
+    {
+        "location": "Mazā Krasta  35 - 10, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Beverīnas  6 - 2, Rīga",
+        "wage": 4300
+    },
+    {
+        "location": "Lielirbes  32, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Daugavgrīvas  83, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Smilšu  3, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Tērbatas  14 - 3, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Vestienas  35, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Vestienas  35, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Maskavas  450B, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Mazā Krasta  83, Rīga",
+        "wage": 1250
+    },
+    {
+        "location": "Katoļu  9 k-1 - 2, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Kojusalas  15, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Daugavgrīvas  47A, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Daugavgrīvas  47A, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Skandu  7, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Ernesta Birznieka-Upīša  20A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Krišjāņa Barona  52, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Brīvības  369 k-2, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Pilsoņu  1C, Rīga",
+        "wage": 640
+    },
+    {
+        "location": "Krišjāņa Barona  78 - 27, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Rītausmas  2B, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rencēnu  8, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Lidosta \"Rīga\" 10/4, Mārupes pag., Mārupes nov.",
+        "wage": 1400
+    },
+    {
+        "location": "Brīvības  191, Rīga",
+        "wage": 1285
+    },
+    {
+        "location": "Jeruzalemes  1, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Bruņinieku  33, Rīga",
+        "wage": 1247
+    },
+    {
+        "location": "Dārza  20A, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Līksnas  24 - 24, Rīga",
+        "wage": 1550
+    },
+    {
+        "location": "Raiņa bulvāris 31, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Tīraines  9A, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Tīraines  9A, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Rīga, Pūces  53 - 17, LV-1082 un citi objekti Latvijā",
+        "wage": 930
+    },
+    {
+        "location": "Līksnas  24 - 24, Rīga",
+        "wage": 1550
+    },
+    {
+        "location": "Lubānas  113, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Jāņa Daliņa  4 - 62, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Noliktavas  5, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Zebiekstes  12, Rīga",
+        "wage": 715
+    },
+    {
+        "location": "Berģu  142, Rīga",
+        "wage": 715
+    },
+    {
+        "location": "Stāmerienas  4, Rīga",
+        "wage": 715
+    },
+    {
+        "location": "Kapseļu  31, Rīga, Mežrozīšu  22, Rīga",
+        "wage": 715
+    },
+    {
+        "location": "Dzirnavu  55, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Jāņa sēta 1, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Lielirbes  29, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Bruņinieku  33, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Bruņinieku  33, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Krustabaznīcas  11, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Tīklu  10, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Rītausmas  16, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Jasmuižas  18 k-1 - 79, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Tērbatas  37, Rīga",
+        "wage": 1450
+    },
+    {
+        "location": "Brīvības  144, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Rītausmas  16, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Rītausmas  16, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Daugavgrīvas  104 - 5, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Rīga, Bruņinieku  33 - 4",
+        "wage": 1477
+    },
+    {
+        "location": "Rušonu  30 - 15, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīga",
+        "wage": 1449
+    },
+    {
+        "location": "Salaspils  20 - 30, Rīga",
+        "wage": 950
+    },
+    {
+        "location": "Tērbatas  7, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Prūšu  23B - 13, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Dārzciema  70, Rīga",
+        "wage": 1526
+    },
+    {
+        "location": "Rīga, Latvija",
+        "wage": 1449
+    },
+    {
+        "location": "Stabu  47, Centra rajons, Rīga, LV-1011",
+        "wage": 1310
+    },
+    {
+        "location": "Rīga, Valdlauči, \"Gutta\"",
+        "wage": 1449
+    },
+    {
+        "location": "Rīga",
+        "wage": 2900
+    },
+    {
+        "location": "Dārzciema  1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Cēsu  5B - 33, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Vaidavas  12, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Jeruzalemes  1, Rīga",
+        "wage": 769
+    },
+    {
+        "location": "Annas Brigaderes  6 - 3, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Tērbatas  28 - 15, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Kārļa Ulmaņa  2, Rīga",
+        "wage": 2300
+    },
+    {
+        "location": "Berģu  160, Rīga",
+        "wage": 816
+    },
+    {
+        "location": "Braila  2, Rīga",
+        "wage": 1608
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Rīga",
+        "wage": 2100
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Rīga",
+        "wage": 2100
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Rīga",
+        "wage": 2100
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Rīga",
+        "wage": 1900
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Rīga",
+        "wage": 1900
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Rīga",
+        "wage": 1900
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Rīga",
+        "wage": 3500
+    },
+    {
+        "location": "Kalnciema  93, Rīga",
+        "wage": 865
+    },
+    {
+        "location": "Zebiekstes  12, Rīga",
+        "wage": 715
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Berģu  160, Rīga",
+        "wage": 865
+    },
+    {
+        "location": "Stāmerienas  4, Rīga",
+        "wage": 865
+    },
+    {
+        "location": "Rīga",
+        "wage": 1550
+    },
+    {
+        "location": "Bruņinieku  52 - 30, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Bruņinieku  52 - 30, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Bruņinieku  52 - 30, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rītausmas  2, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Jaunā Teika, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Aleksandra Čaka  110, Rīga, LV-1011, Latvia",
+        "wage": 1537
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Jaunā Teika, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Jaunā Teika, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Jaunā Teika, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Gustava Zemgala  76, ēka \"Valters\", 5.stāvs, Rīga",
+        "wage": 3500
+    },
+    {
+        "location": "Blaumaņa  19, Rīga",
+        "wage": 1200
+    },
+    {
+        "location": "Cesvaines  15A, Rīga",
+        "wage": 1449
+    },
+    {
+        "location": "Latgales  250 k-1 - 32, Rīga, LV-1063",
+        "wage": 1477
+    },
+    {
+        "location": "Krišjāņa Valdemāra  118, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Mazā Smilšu  8, Rīga, un objektos",
+        "wage": 1537
+    },
+    {
+        "location": "Raņķa dambis 30, Rīga",
+        "wage": 10000
+    },
+    {
+        "location": "Rūpniecības  19-1, Rīga, LV-1010",
+        "wage": 930
+    },
+    {
+        "location": "Krasta  86, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Tērbatas  28 - 15, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Tvaika  68B, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Tvaika  68B, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rītausmas  2, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Krišjāņa Valdemāra  118, Rīga",
+        "wage": 2500
+    },
+    {
+        "location": "Vārnu  5, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Vārnu  5, Rīga",
+        "wage": 1200
+    },
+    {
+        "location": "Vārnu  5, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Vārnu  5, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Prūšu  15, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Rīga, Latgales  257, LV-1019",
+        "wage": 800
+    },
+    {
+        "location": "Rīga, Latgales  257, LV-1019",
+        "wage": 1120
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Mangaļu prospekts 62 - 1, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Dzirnavu  37 - 41, Rīga",
+        "wage": 1603
+    },
+    {
+        "location": "Daugavgrīvas  83, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Daugavgrīvas  83, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Slimnīcas  6C, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Kurzemes prospekts 3D, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Vestienas  2J, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Krišjāņa Valdemāra  77, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Auces  10, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rūpniecības  19-1, Rīga, LV-1010",
+        "wage": 930
+    },
+    {
+        "location": "Rīga, Ventspils  63B, LV-1046",
+        "wage": 1537
+    },
+    {
+        "location": "Rencēnu  10A, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Zivju  1, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Jūrkalnes  15, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Jūrkalnes  15, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2400
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Gunāra Astras  8B, Rīga",
+        "wage": 1310
+    },
+    {
+        "location": "Vaidavas  12, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Lomonosova  6, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Daugavgrīvas šoseja 7B, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīgas  5A, Ādaži, Ādažu nov.",
+        "wage": 993
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 800
+    },
+    {
+        "location": "Lienes  1 - 3, Rīga",
+        "wage": 1417
+    },
+    {
+        "location": "Republikas laukums 3, Rīga",
+        "wage": 1550
+    },
+    {
+        "location": "Republikas laukums 3, Rīga",
+        "wage": 1550
+    },
+    {
+        "location": "Lizuma  5E, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Lizuma  5E, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Lizuma  5E, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Lizuma  5E, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Lizuma  5E, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rāmuļu  36, Rīga",
+        "wage": 980
+    },
+    {
+        "location": "Lizuma  5E, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Lizuma  5, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Lizuma  5, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Aspazijas bulvāris 22, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Krišjāņa Valdemāra  118, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Krišjāņa Valdemāra  118, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Brīvības  76 - 12, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Rītausmas  2B, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rītausmas  2B, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rītausmas  2B, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Vesetas  30 - 22, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Latgales  250 k-1 - 32, Rīga, LV-1063 un citās vietās pēc darba devēja rīkojuma",
+        "wage": 930
+    },
+    {
+        "location": "Dzelzavas  23 - 73, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Tērbatas  74a - 302, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Elizabetes  10B, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Elizabetes  10B, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Rīga",
+        "wage": 1450
+    },
+    {
+        "location": "Tīnūžu  7, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Annas Brigaderes  6 - 3, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Daugavgrīvas  83, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Lienes  1 - 3, Rīga",
+        "wage": 1417
+    },
+    {
+        "location": "Rīga, Piedrujas  18, LV-1073",
+        "wage": 930
+    },
+    {
+        "location": "Rītausmas  16, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Zivju  3 k-2, Rīga",
+        "wage": 1493
+    },
+    {
+        "location": "Viskaļu  48, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Gustava Zemgala  77, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga",
+        "wage": 5000
+    },
+    {
+        "location": "Gāles  2, Ziemeļu rajons, Rīga, LV-1015",
+        "wage": 1373
+    },
+    {
+        "location": "Gāles  2, Ziemeļu rajons, Rīga, LV-1015",
+        "wage": 1373
+    },
+    {
+        "location": "Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Zivju  3 k-2, Rīga",
+        "wage": 1493
+    },
+    {
+        "location": "Zivju  3 k-2, Rīga",
+        "wage": 1493
+    },
+    {
+        "location": "Biķernieku  160, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Rīgas  5A, Ādaži, Ādažu nov.",
+        "wage": 993
+    },
+    {
+        "location": "Rīgas  5A, Ādaži, Ādažu nov.",
+        "wage": 993
+    },
+    {
+        "location": "Sniķeres  25 k-1, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 4700
+    },
+    {
+        "location": "Mellužu  17 - 3, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Skandu  7, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Elizabetes  51, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Čiekurkalna 4. šķērslīnija 12 k-2, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Čiekurkalna 4. šķērslīnija 12 k-2, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Rīgas-Siguldas šoseja 11, Berģi, Garkalnes pag., Ropažu nov.",
+        "wage": 1537
+    },
+    {
+        "location": "Tērbatas  28 - 15, Rīga",
+        "wage": 1248
+    },
+    {
+        "location": "Brīvības  132, Latgales priekšpilsēta, Rīga, LV-1012",
+        "wage": 1600
+    },
+    {
+        "location": "Daugavgrīvas šoseja 7B, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rīga, Ventspils  17, LV-1002",
+        "wage": 993
+    },
+    {
+        "location": "Mežkalna  5, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Rīga, Krasta  46, LV-1003; Rīga, Brīvības  372, LV-1006; Rīga, Duntes  19A, LV-1005; Rīga, Dzirnavu  67, LV-1011; Rīga, Kalēju  30, LV-1050; Maskavas  257, LV-1063",
+        "wage": 750
+    },
+    {
+        "location": "Tērbatas  28 - 15, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Daugavgrīvas  112, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Noliktavas  5, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Ganību dambis 40, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Lienes  1 - 3, Rīga",
+        "wage": 1417
+    },
+    {
+        "location": "Pērnavas  86, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Brīvības  96, Rīga, LV-1001",
+        "wage": 993
+    },
+    {
+        "location": "Dižozolu  21A, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Latgales  417 – 142, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1800
+    },
+    {
+        "location": "Viskaļu  48, Rīga",
+        "wage": 1247
+    },
+    {
+        "location": "Viskaļu  48, Rīga",
+        "wage": 993
+    },
+    {
+        "location": "Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Krišjāņa Valdemāra  18 - 7, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Brīvības  96, Rīga, LV-1001",
+        "wage": 889
+    },
+    {
+        "location": "Rīga, Latvija",
+        "wage": 1449
+    },
+    {
+        "location": "Rīga, Latvija",
+        "wage": 1449
+    },
+    {
+        "location": "Brīvības  372 - 3, Rīga",
+        "wage": 1700
+    },
+    {
+        "location": "Aspazijas bulvāris 30, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Krustpils  119, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Krustpils  119, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Krustpils  119, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Krustpils  119, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rankas  13, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Krišjāņa Barona  14 - 7, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Tērbatas  7, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Rēznas  9 k-1, Rīga",
+        "wage": 2220
+    },
+    {
+        "location": "Tērbatas  28 - 15, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Tērbatas  28 - 15, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Brīvības  171, Rīga",
+        "wage": 1603
+    },
+    {
+        "location": "Lienes  1 - 3, Rīga",
+        "wage": 1417
+    },
+    {
+        "location": "Vīlandes  2 - 8, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Dārzciema  91, Rīga",
+        "wage": 2500
+    },
+    {
+        "location": "Lienes  1 - 3, Rīga",
+        "wage": 1417
+    },
+    {
+        "location": "SIA Falkors group, Ropažu  140, Rīga, LV-1006",
+        "wage": 1480
+    },
+    {
+        "location": "Valērijas Seiles  12A, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Jūrmalas  82, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Rencēnu  10A, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Kauguru  6, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Tērbatas  28 - 15, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Centrāltirgus  5, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Krišjāņa Valdemāra  118, Rīga",
+        "wage": 1449
+    },
+    {
+        "location": "Kr.Valdemāra  118, Rīga, Latvija",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Rīga, Siguldas nov., Liepāja, Auces nov.",
+        "wage": 1449
+    },
+    {
+        "location": "Kārļa Ulmaņa  2, Rīga",
+        "wage": 3500
+    },
+    {
+        "location": "Ilzenes  1B, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Latgales  222B - 3, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Pils  21, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Rītausmas  23, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Ziemeļu  4, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 1373
+    },
+    {
+        "location": "Braslas  20, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Mežrozīšu  43, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Mežrozīšu  43, Rīga",
+        "wage": 1440
+    },
+    {
+        "location": "Zaru  14, Rīga",
+        "wage": 1573
+    },
+    {
+        "location": "Zaru  14, Rīga",
+        "wage": 1573
+    },
+    {
+        "location": "Dārzciema  60, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Krustabaznīcas  20, Rīga",
+        "wage": 1100
+    },
+    {
+        "location": "Dārzciema  60, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Gāles  2, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Gāles  2, Rīga",
+        "wage": 1497
+    },
+    {
+        "location": "Mežkalna  5, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Vestienas  35, Rīga",
+        "wage": 1215
+    },
+    {
+        "location": "Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Garozes  31, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Tērbatas  28 - 15, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Dārzciema  60, Rīga kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Dārzciema  60, Rīga kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Dārzciema  60, Rīga kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Dārzciema  60, Rīga kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Dārzciema  60, Rīga, kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Dārzciema  60, Rīga kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Brīvības  191, Rīga",
+        "wage": 1285
+    },
+    {
+        "location": "Jeruzalemes  1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Jeruzalemes  1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Jeruzalemes  1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Jeruzalemes  1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Ūnijas  15A, Rīga",
+        "wage": 1449
+    },
+    {
+        "location": "Krasta  68A, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Krustabaznīcas  20, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Kurzemes prospekts 4, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Pirts  4, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Pirts  4, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Daugavgrīvas  83, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Tehnikas  3, Lidosta \"Rīga\", Mārupes pag., Mārupes nov.",
+        "wage": 2800
+    },
+    {
+        "location": "Vestienas  2J, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Daugavgrīvas  83, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1920
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Krišjāņa Valdemāra  149, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Krišjāņa Valdemāra  149, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Krišjāņa Valdemāra  149, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Kurzemes prospekts 158, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Kurzemes prospekts 158, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Brīvības  191, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Vestienas  35, Rīga",
+        "wage": 1295
+    },
+    {
+        "location": "Vienības  16, Rīga",
+        "wage": 1365
+    },
+    {
+        "location": "Slokas  187-5, Rīga, LV-1067, kā arī citos pasūtītāju objektos, ir iespējami arī komandējumi",
+        "wage": 1460
+    },
+    {
+        "location": "Slokas  187-5, Rīga, LV-1067, kā arī citos pasūtītāju objektos, ir iespējami arī komandējumi",
+        "wage": 1460
+    },
+    {
+        "location": "Slokas  187-5, Rīga, LV-1067, kā arī citos pasūtītāju objektos, ir iespējami arī komandējumi",
+        "wage": 1460
+    },
+    {
+        "location": "Tērbatas  74a - 302, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Lielirbes  29, Rīga",
+        "wage": 1155
+    },
+    {
+        "location": "Noliktavas  5, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Krišjāņa Valdemāra  57/59 - 5, Rīga",
+        "wage": 1300
+    },
+    {
+        "location": "Krustpils  12, Rīga",
+        "wage": 1550
+    },
+    {
+        "location": "Brīvības  40 - 26A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Sniķeres  25 k-1, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Lielirbes  29, Rīga",
+        "wage": 900
+    },
+    {
+        "location": "Satekles  2B, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Krišjāņa Barona  40A, Rīga,. Jaunā ielā 12 k-6, Piņķos, Babītes pagastā, Mārupes novadā, Latvijā",
+        "wage": 16000
+    },
+    {
+        "location": "Rīga, Lielirbes  29, LV-1046; Rīga, Mūkusalas  71, LV-1004; Rīga, Ieriķu  3, LV-1084; Jūrmala, Jomas  72, LV-2015;",
+        "wage": 16000
+    },
+    {
+        "location": "Rīga, Krasta  46, LV-1003; Rīga, Brīvības  372, LV-1006; Rīga, Duntes  19A, LV-1005; Rīga, Dzirnavu  67, LV-1011; Rīga, Kalēju  30, LV-1050; Maskavas  257, LV-1063",
+        "wage": 900
+    },
+    {
+        "location": "Rencēnu  8, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Pērnavas  86, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Augusta Dombrovska  39, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Gogoļa  3, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Klijānu  8, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2240
+    },
+    {
+        "location": "Valdeķu  62 - 156, Rīga, LV-1058",
+        "wage": 930
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2240
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 3500
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1920
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1920
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 1280
+    },
+    {
+        "location": "Pilsoņu  13, Rīga",
+        "wage": 2240
+    },
+    {
+        "location": "Lemešu  9 - 34, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga, Krasta  46, LV-1003; Rīga, Brīvības  372, LV-1006; Rīga, Duntes  19A, LV-1005; Rīga, Dzirnavu  67, LV-1011; Rīga, Kalēju  30, LV-1050; Rīga, Lielirbes  29, LV-1046; Maskavas  257, LV-1063",
+        "wage": 1155
+    },
+    {
+        "location": "Brīvības  40 - 26A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Kaņiera  13, Rīga",
+        "wage": 3000
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Spulgas  21, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Sēlpils  15, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Kaņiera  13, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Imantas 8. līnija 1, korpuss 1, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 3000
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Mežrozīšu  43, Rīga",
+        "wage": 2000
+    },
+    {
+        "location": "Spulgas  24, Rīga",
+        "wage": 3000
+    },
+    {
+        "location": "Imantas 8. līnija 1 k-1, Rīga",
+        "wage": 1453
+    },
+    {
+        "location": "Kaņiera  13, Rīga",
+        "wage": 2880
+    },
+    {
+        "location": "Kaņiera  13, Rīga",
+        "wage": 2080
+    },
+    {
+        "location": "Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Ganību dambis 26A, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Kurzemes prospekts 3D, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Kurzemes prospekts 3D, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Kurzemes prospekts 3D, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Lidoņu  27 k-1, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Uriekstes  4, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rencēnu  10A, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rencēnu  10A, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Uriekstes  9, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Prūšu  23B - 13, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Grēcinieku  26, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Hipokrāta  21 - 38, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Krustabaznīcas  16, Rīga",
+        "wage": 1143
+    },
+    {
+        "location": "Brīvības  191, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Brīvības  191, Rīga",
+        "wage": 1435
+    },
+    {
+        "location": "Brīvības  191, Rīga",
+        "wage": 1435
+    },
+    {
+        "location": "Brīvības  191, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "Vestienas  35, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Brīvības  191, Rīga",
+        "wage": 960
+    },
+    {
+        "location": "Kojusalas  25, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Prūšu  23B - 13, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Kupriču  3A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Kupriču  3A, Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Starta  1A, Rīga",
+        "wage": 750
+    },
+    {
+        "location": "Starta  1A, Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Atgāzenes  24A, Rīga",
+        "wage": 1120
+    },
+    {
+        "location": "LATVIJA, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Rīga, Krasta  46, LV-1003; Rīga, Brīvības  372, LV-1006; Rīga, Duntes  19A, LV-1005; Rīga, Dzirnavu  67, LV-1011; Rīga, Kalēju  30, LV-1050; Rīga, Lielirbes  29, LV-1046; Maskavas  257, LV-1063",
+        "wage": 770
+    },
+    {
+        "location": "Uriekstes  3, Rīga",
+        "wage": 1470
+    },
+    {
+        "location": "Granīta  9A, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Latvija, Rīga, Stabu  77-7",
+        "wage": 2400
+    },
+    {
+        "location": "Latvija, Rīga, Stabu  77-7",
+        "wage": 2400
+    },
+    {
+        "location": "Gustava Zemgala  74A, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Gustava Zemgala  74A, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Smilgu  3, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Čiekurkalna 4. šķērslīnija 15 - 3, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Baznīcas  31, Rīga",
+        "wage": 1800
+    },
+    {
+        "location": "Lielirbes  1, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Lomonosova  4, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Ilzenes  1B, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Ilzenes  1B, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Flotes  13, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Uriekstes  32, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Garozes  31, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Rīga",
+        "wage": 700
+    },
+    {
+        "location": "Kaļķu  4, Rīga",
+        "wage": 1350
+    },
+    {
+        "location": "Rīga, Ieriķu  66 - 89, LV-1057, kā arī citos pasūtītāju objektos Latvijā",
+        "wage": 1460
+    },
+    {
+        "location": "Finiera  6, Rīga",
+        "wage": 1309
+    },
+    {
+        "location": "Gogoļa  3, Rīga",
+        "wage": 930
+    },
+    {
+        "location": "Krasta  86, Rīga",
+        "wage": 1477
+    },
+    {
+        "location": "Rīga, Ieriķu  66 - 89, LV-1057, kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga, Ieriķu  66 - 89, LV-1057, kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga, Ieriķu  66 - 89, LV-1057, kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Skanstes  25, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Maskavas  456A, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Rīga, Kuģu  13-16, LV-1048 kā arī citos pasūtītaju objektos",
+        "wage": 1460
+    },
+    {
+        "location": "Vizmas Belševicas  5, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Rīga, Ieriķu  66 - 89, LV-1057, kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga, Ieriķu  66 - 89, LV-1057, kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga, Ieriķu  66 - 89, LV-1057, kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga, Ieriķu  66 - 89, LV-1057, kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Ilzenes  1B, Rīga",
+        "wage": 1500
+    },
+    {
+        "location": "Lāčplēša  57 - 1, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Brīvības  200C, Rīga",
+        "wage": 1200
+    },
+    {
+        "location": "Brīvības  200C, Rīga",
+        "wage": 1600
+    },
+    {
+        "location": "Jezupa Rancāna  6, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Aleksandra Čaka  110, Rīga, LV-1011, Latvia",
+        "wage": 1537
+    },
+    {
+        "location": "Kārļa Ulmaņa  2, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Kārļa Ulmaņa  2, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Mūkusalas  71, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Sniķeres  29, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Flotes  13, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Flotes  13, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Flotes  13, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Krišjāņa Valdemāra  27/29, Rīga",
+        "wage": 2200
+    },
+    {
+        "location": "Krišjāņa Valdemāra  27/29, Rīga",
+        "wage": 6300
+    },
+    {
+        "location": "Kristapa  8B - 145, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Kārļa Ulmaņa  2, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Kārļa Ulmaņa  2, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Kārļa Ulmaņa  2, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Meža  4A - 61, Rīga, LV-1048",
+        "wage": 1380
+    },
+    {
+        "location": "Rīgas  5a, Ādaži, Ādažu novads, LV-2164",
+        "wage": 1380
+    },
+    {
+        "location": "Gogoļa  3, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Lidoņu  15, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Lidoņu  15, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Kristapa  8B - 145, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Rīga, Ieriķu  66 - 89, LV-1057, kā arī citos pasūtītāju objektos.",
+        "wage": 1460
+    },
+    {
+        "location": "Pulka  3, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Flotes  13, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Rīga",
+        "wage": 1537
+    },
+    {
+        "location": "Flotes  13, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Kārļa Ulmaņa  2, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Krišjāņa Valdemāra  118, Rīga",
+        "wage": 1449
+    },
+    {
+        "location": "Satekles  2B, Rīga",
+        "wage": 770
+    },
+    {
+        "location": "Satekles  2B, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Pērnavas  86, Rīga",
+        "wage": 770
+    },
+    {
+        "location": "Pērnavas  86, Rīga",
+        "wage": 1540
+    },
+    {
+        "location": "Ulbrokas  42G, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Flotes  13, Rīga",
+        "wage": 1380
+    },
+    {
+        "location": "Flotes  13, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Flotes  13, Rīga",
+        "wage": 1400
+    },
+    {
+        "location": "Ģertrūdes  98, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Krišjāņa Barona  11, Rīga",
+        "wage": 1450
+    },
+    {
+        "location": "Eduarda Smiļģa  32 - 19, Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Pulka  3, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Rīga",
+        "wage": 1460
+    },
+    {
+        "location": "Centrāltirgus  3 k-4, Rīga",
+        "wage": 1000
+    },
+    {
+        "location": "Krišjāņa Valdemāra  147 k-2, Rīga",
+        "wage": 1373
+    },
+    {
+        "location": "Krišjāņa Valdemāra  147 k-2, Rīga",
+        "wage": 1373
+    }
+]
